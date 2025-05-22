@@ -1,0 +1,337 @@
+
+[19:45:34.253] ------------------------------
+[19:45:34.256] MelonLoader v0.7.0 Open-Beta
+[19:45:34.258] OS: Windows 10
+[19:45:34.258] Hash Code: 72EB65FC06D8CACD193CD21D9E7D708128C85D36C429D62C2BE9BB24217EF1EC
+[19:45:34.258] ------------------------------
+[19:45:34.259] Game Type: Il2cpp
+[19:45:34.259] Game Arch: x64
+[19:45:34.259] ------------------------------
+[19:45:34.259] Command-Line: 
+[19:45:34.260] ------------------------------
+[19:45:34.260] Core::BasePath = C:\Users\hu\Desktop\PvZ融合-二创模组增强版\GameFiles
+[19:45:34.260] Game::BasePath = C:\Users\hu\Desktop\PvZ融合-二创模组增强版\GameFiles
+[19:45:34.260] Game::DataPath = C:\Users\hu\Desktop\PvZ融合-二创模组增强版\GameFiles\PlantsVsZombiesRH_Data
+[19:45:34.260] Game::ApplicationPath = C:\Users\hu\Desktop\PvZ融合-二创模组增强版\GameFiles\PlantsVsZombiesRH.exe
+[19:45:34.260] Runtime Type: net6
+[19:45:34.630] ------------------------------
+[19:45:34.630] Game Name: PlantsVsZombiesRH
+[19:45:34.630] Game Developer: LanPiaoPiao
+[19:45:34.636] Unity Version: 2022.3.20f1c1
+[19:45:34.636] Game Version: 2.5
+[19:45:34.637] ------------------------------
+
+[19:45:36.018] Preferences Loaded!
+
+[19:45:36.047] Loading UserLibs...
+[19:45:36.086] ------------------------------
+[19:45:36.092] Melon Assembly loaded: '.\UserLibs\ToolModData.dll'
+[19:45:36.092] SHA256 Hash: 'AD02DA2D1CB0DB2D2A011F4847D2961596CF48C677D02A78655C647F4237AB56'
+[19:45:36.092] ------------------------------
+[19:45:36.092] 0 UserLibs loaded.
+
+[19:45:36.092] Loading Plugins...
+[19:45:36.100] 0 Plugins loaded.
+
+[19:45:37.156] Loading Il2CppAssemblyGenerator...
+[19:45:37.210] [Il2CppAssemblyGenerator] Using Cpp2IL Version: 2022.1.0-pre-release.19
+[19:45:37.211] [Il2CppAssemblyGenerator] Using Il2CppInterop Version = 1.4.6-ci.579+9d4599dc78d69ede49a2ee96a1ccf41eec02db5b
+[19:45:37.211] [Il2CppAssemblyGenerator] Using Unity Dependencies Version = 2022.3.20
+[19:45:37.211] [Il2CppAssemblyGenerator] Using Deobfuscation Regex = null
+[19:45:37.211] [Il2CppAssemblyGenerator] Cpp2IL is up to date.
+[19:45:37.212] [Il2CppAssemblyGenerator] Cpp2IL.Plugin.StrippedCodeRegSupport is up to date.
+[19:45:37.212] [Il2CppAssemblyGenerator] UnityDependencies is up to date.
+[19:45:37.212] [Il2CppAssemblyGenerator] Checking GameAssembly...
+[19:45:37.438] [Il2CppAssemblyGenerator] Assembly is up to date. No Generation Needed.
+
+[19:45:37.439] Loading Mods...
+[19:45:37.484] ------------------------------
+[19:45:37.513] Melon Assembly loaded: '.\Mods\AudioImportLib.dll'
+[19:45:37.513] SHA256 Hash: '92484FABE1C1F12590112FFCABDEBE5DA6FC23D38A0DFB77DD344589716C50DF'
+[19:45:37.515] Melon Assembly loaded: '.\Mods\Better_Pot_Fusion.dll'
+[19:45:37.515] SHA256 Hash: '3DB80218CF758CD910E3C6B93AFFBCA206A58574A4E9EF9F3E1F4CD5864C51C7'
+[19:45:37.516] Melon Assembly loaded: '.\Mods\Better_Pumpkin_Fusion.dll'
+[19:45:37.516] SHA256 Hash: '6F7D1C91BF2291654305498E051D296C34A7586031CB242EE63E2CD866AFE81A'
+[19:45:37.523] Melon Assembly loaded: '.\Mods\CherryHypnoGatlingBlover.MelonLoader.dll'
+[19:45:37.523] SHA256 Hash: 'C0BAA52684FC56DCEFA61925D68196A57420DD5F899D34B6406B3B6D746E7636'
+[19:45:37.527] Melon Assembly loaded: '.\Mods\CustomizeLib.MelonLoader.dll'
+[19:45:37.527] SHA256 Hash: '7BC8AC483549C543E64CDBCA5D14D60DF546A259EFF8D109B795804041409C92'
+[19:45:37.549] Melon Assembly loaded: '.\Mods\ElectricPeaReborn.MelonLoader.dll'
+[19:45:37.549] SHA256 Hash: 'B63856253E504632D70C243C69093A15008632DF124EB70148260E118B5EBB8D'
+[19:45:37.551] Melon Assembly loaded: '.\Mods\FIDLoader.dll'
+[19:45:37.551] SHA256 Hash: '4D02D5D26855C8E1BBCC4434D9019805EB603852D15EF9A83D64BCE3068CC632'
+[19:45:37.557] Melon Assembly loaded: '.\Mods\GatlingIronPuff.MelonLoader.dll'
+[19:45:37.557] SHA256 Hash: '06573EF3DB0B9D0EBA712F69C59B4CE7882EFAE8834821FA198666A92056FDA5'
+[19:45:37.562] Melon Assembly loaded: '.\Mods\HypnoSquash.MelonLoader.dll'
+[19:45:37.562] SHA256 Hash: '8558CE4C06E6E986B9793AC9E5AEF4347C7B9270F059E1428CF79B7D798109F4'
+[19:45:37.567] Melon Assembly loaded: '.\Mods\IceDoomCherryJalapeno.MelonLoader.dll'
+[19:45:37.567] SHA256 Hash: '32464273B541B58F8FE80D64DF7AB40954B1E3FDBA32C2030E74B6A95AD15984'
+[19:45:37.574] Melon Assembly loaded: '.\Mods\IceDoomScaredyShroom.MelonLoader.dll'
+[19:45:37.574] SHA256 Hash: 'EE0EBE8F9DA85811538D377507006F93BB08D6B38FBDBF2325A169DAD455141F'
+[19:45:37.600] Melon Assembly loaded: '.\Mods\IceMelonCannon.MelonLoader.dll'
+[19:45:37.601] SHA256 Hash: '20AEE878F7D47D4B998FB527949F9B4F9AD2B30AFA518915AB67EF192D40CC6E'
+[19:45:37.627] Melon Assembly loaded: '.\Mods\IronPeasExtra.MelonLoader.dll'
+[19:45:37.627] SHA256 Hash: 'E71B59C32BC7C536369183A90FBF5C20439A19527BD8E7F9E227E45F2375250E'
+[19:45:37.632] Melon Assembly loaded: '.\Mods\MilkyBlover.MelonLoader.dll'
+[19:45:37.633] SHA256 Hash: 'F8B713A9B468B061FD48750E72FA0EBB8DB99D3D856A40740E71CA24A56F23D1'
+[19:45:37.641] Melon Assembly loaded: '.\Mods\ObsidianDollZombie.MelonLoader.dll'
+[19:45:37.641] SHA256 Hash: 'E4F17209BF492D26F5F6F94F25BFCF3027F15FEE4D87E438765A78EB42EB430F'
+[19:45:37.648] Melon Assembly loaded: '.\Mods\ObsidianRandomZombie.MelonLoader.dll'
+[19:45:37.648] SHA256 Hash: '888AD134E132D8362253DF5F27392A7259D4E36193C4432E84D2082D10F1423C'
+[19:45:37.650] Melon Assembly loaded: '.\Mods\PvZ-Fusion-DRPC.dll'
+[19:45:37.651] SHA256 Hash: 'E1CBE68F56CA45C468402F943C8CF9F65B72EE57A8D5C6D8C7364CA9B73DF54B'
+[19:45:37.655] Melon Assembly loaded: '.\Mods\PVZRH_PlM.dll'
+[19:45:37.655] SHA256 Hash: '74FE9CE1A85D4F9D1D6B571A656F039F86AFEBB2C51A9E14CFEAFBB24F8795DC'
+[19:45:37.658] Melon Assembly loaded: '.\Mods\PvZ_Fusion_Translator.dll'
+[19:45:37.658] SHA256 Hash: '0EE7D6DDFAA03AF87A4EE644C717305090EFCB544044498E4325CAE68F7216DC'
+[19:45:37.659] Melon Assembly loaded: '.\Mods\SelectCustomPlants.MelonLoader.dll'
+[19:45:37.660] SHA256 Hash: '35316035A625C5BB37BDC0004A76DD436363A1E8DF0A9327AA9F31F9A17A6288'
+[19:45:37.677] Melon Assembly loaded: '.\Mods\SuperDiamondNut.MelonLoader.dll'
+[19:45:37.677] SHA256 Hash: '5D1FB678DD1262ABFFA7FEB0319537FB99BAF1E4EED43BC2D0F6F362CEA39687'
+[19:45:37.682] Melon Assembly loaded: '.\Mods\SuperDoomSqualour.MelonLoader.dll'
+[19:45:37.682] SHA256 Hash: 'AF6A14AFD8257C26486FF3A451E6FFDB11AB28542FEE0E1C10F894C1D3B26B1A'
+[19:45:37.691] Melon Assembly loaded: '.\Mods\SuperGarlicFume.MelonLoader.dll'
+[19:45:37.692] SHA256 Hash: '2E9AF3BB59AE225B6CAD18B7FF9C54B54BDD208B403C38FE480AF166C7C54331'
+[19:45:37.739] Melon Assembly loaded: '.\Mods\SuperUmbrellasExtra.MelonLoader.dll'
+[19:45:37.739] SHA256 Hash: 'E778F3333C6AFE063F8D7B59868A4E153D1CC997E10CB06811D528ABEAE6C9B9'
+[19:45:37.742] Melon Assembly loaded: '.\Mods\ToolMod.dll'
+[19:45:37.742] SHA256 Hash: '56E39FDB073BEDFF9E5471F3FE9431922D83428598151495906D7330CCF6BE3D'
+[19:45:37.754] Melon Assembly loaded: '.\Mods\UltimateCornPlus.MelonLoader.dll'
+[19:45:37.755] SHA256 Hash: '6D7FC5F1109EBA8B6A390706012E39006B5B1A22B49DB79F1A05DA2251B6CC2A'
+[19:45:37.767] Melon Assembly loaded: '.\Mods\UltimateWinterMelonCannon.MelonLoader.dll'
+[19:45:37.767] SHA256 Hash: 'E125470573420DB9A306D45A00FC87AE16F918C26FA35CE31A683B4FCDEA99A8'
+
+[19:45:38.225] ------------------------------
+[19:45:38.226] Better Pot Fusion v231.0.0
+[19:45:38.226] by dynaslash, JustNull & Mamoru-kun
+[19:45:38.226] Assembly: Better_Pot_Fusion.dll
+[19:45:38.226] ------------------------------
+[19:45:38.228] ------------------------------
+[19:45:38.228] Better Pumpkin Fusion v231.0.0
+[19:45:38.228] by dynaslash, JustNull & Mamoru-kun
+[19:45:38.228] Assembly: Better_Pumpkin_Fusion.dll
+[19:45:38.229] ------------------------------
+[19:45:38.231] ------------------------------
+[19:45:38.231] Fusion ID .fid Loader v1.0.0
+[19:45:38.231] by Fusion-ID
+[19:45:38.231] Assembly: FIDLoader.dll
+[19:45:38.231] ------------------------------
+[19:45:38.233] ------------------------------
+[19:45:38.233] PvZ Fusion Discord Rich Presence v1.0.0
+[19:45:38.233] by cassidy
+[19:45:38.233] Assembly: PvZ-Fusion-DRPC.dll
+[19:45:38.233] ------------------------------
+[19:45:38.238] ------------------------------
+[19:45:38.238] PvZ Fusion Translator v0.3.0
+[19:45:38.238] by dynaslash / arifrios1st
+[19:45:38.238] Assembly: PvZ_Fusion_Translator.dll
+[19:45:38.238] ------------------------------
+[19:45:38.240] ------------------------------
+[19:45:38.240] PVZRH_PlM v2.5.1
+[19:45:38.240] by Salmon
+[19:45:38.240] Assembly: PVZRH_PlM.dll
+[19:45:38.241] ------------------------------
+[19:45:38.243] ------------------------------
+[19:45:38.243] PVZRHCustomization v2.5.1-2.3
+[19:45:38.243] by Infinite75
+[19:45:38.243] Assembly: CustomizeLib.MelonLoader.dll
+[19:45:38.243] ------------------------------
+[19:45:38.245] ------------------------------
+[19:45:38.245] CherryHypnoGatlingBlover v1.0.0
+[19:45:38.245] by likefengzi
+[19:45:38.245] Assembly: CherryHypnoGatlingBlover.MelonLoader.dll
+[19:45:38.245] ------------------------------
+[19:45:38.247] ------------------------------
+[19:45:38.247] ElectricPeaReborn v1.0
+[19:45:38.247] by Infinite75
+[19:45:38.248] Assembly: ElectricPeaReborn.MelonLoader.dll
+[19:45:38.248] ------------------------------
+[19:45:38.250] ------------------------------
+[19:45:38.250] GatlingIronPuff v1.0.0
+[19:45:38.250] by likefengzi
+[19:45:38.250] Assembly: GatlingIronPuff.MelonLoader.dll
+[19:45:38.250] ------------------------------
+[19:45:38.252] ------------------------------
+[19:45:38.252] HypnoSquash v1.0
+[19:45:38.252] by Infinite75
+[19:45:38.252] Assembly: HypnoSquash.MelonLoader.dll
+[19:45:38.252] ------------------------------
+[19:45:38.254] ------------------------------
+[19:45:38.254] IceDoomCherryJalapeno v1.0
+[19:45:38.254] by Infinite75
+[19:45:38.254] Assembly: IceDoomCherryJalapeno.MelonLoader.dll
+[19:45:38.254] ------------------------------
+[19:45:38.257] ------------------------------
+[19:45:38.257] IceDoomScaredyShroom v1.0
+[19:45:38.257] by Infinite75
+[19:45:38.257] Assembly: IceDoomScaredyShroom.MelonLoader.dll
+[19:45:38.257] ------------------------------
+[19:45:38.259] ------------------------------
+[19:45:38.259] IceMelonCannon v1.0
+[19:45:38.259] by Infinite75
+[19:45:38.259] Assembly: IceMelonCannon.MelonLoader.dll
+[19:45:38.259] ------------------------------
+[19:45:38.261] ------------------------------
+[19:45:38.261] IronPeasExtra v1.0
+[19:45:38.261] by Infinite75
+[19:45:38.261] Assembly: IronPeasExtra.MelonLoader.dll
+[19:45:38.261] ------------------------------
+[19:45:38.263] ------------------------------
+[19:45:38.263] MilkyBlover v1.0
+[19:45:38.263] by Infinite75
+[19:45:38.263] Assembly: MilkyBlover.MelonLoader.dll
+[19:45:38.263] ------------------------------
+[19:45:38.265] ------------------------------
+[19:45:38.265] ObsidianDollZombie v1.0
+[19:45:38.265] by Infinite75
+[19:45:38.265] Assembly: ObsidianDollZombie.MelonLoader.dll
+[19:45:38.266] ------------------------------
+[19:45:38.268] ------------------------------
+[19:45:38.268] ObsidianRandomZombie v1.0
+[19:45:38.268] by Infinite75
+[19:45:38.268] Assembly: ObsidianRandomZombie.MelonLoader.dll
+[19:45:38.268] ------------------------------
+[19:45:38.270] ------------------------------
+[19:45:38.270] SelectCustomPlants v1.0.0
+[19:45:38.270] by likefengzi
+[19:45:38.270] Assembly: SelectCustomPlants.MelonLoader.dll
+[19:45:38.270] ------------------------------
+[19:45:38.272] ------------------------------
+[19:45:38.272] SuperDiamondNut v1.0
+[19:45:38.272] by Infinite75
+[19:45:38.272] Assembly: SuperDiamondNut.MelonLoader.dll
+[19:45:38.272] ------------------------------
+[19:45:38.278] ------------------------------
+[19:45:38.278] SuperDoomSqualour v1.0
+[19:45:38.278] by Infinite75
+[19:45:38.278] Assembly: SuperDoomSqualour.MelonLoader.dll
+[19:45:38.278] ------------------------------
+[19:45:38.280] ------------------------------
+[19:45:38.280] SuperGarlicFume v1.0
+[19:45:38.280] by Infinite75
+[19:45:38.280] Assembly: SuperGarlicFume.MelonLoader.dll
+[19:45:38.280] ------------------------------
+[19:45:38.283] ------------------------------
+[19:45:38.283] SuperUmbrellasExtra v1.0
+[19:45:38.283] by Infinite75
+[19:45:38.283] Assembly: SuperUmbrellasExtra.MelonLoader.dll
+[19:45:38.283] ------------------------------
+[19:45:38.285] ------------------------------
+[19:45:38.285] ToolMod v2.5.1-3.22
+[19:45:38.285] by Infinite75
+[19:45:38.285] Assembly: ToolMod.dll
+[19:45:38.285] ------------------------------
+[19:45:38.287] ------------------------------
+[19:45:38.287] UltimateCornPlus v1.0.0
+[19:45:38.287] by likefengzi
+[19:45:38.287] Assembly: UltimateCornPlus.MelonLoader.dll
+[19:45:38.288] ------------------------------
+[19:45:38.290] ------------------------------
+[19:45:38.290] UltimateWinterMelonCannon v1.0
+[19:45:38.290] by Infinite75
+[19:45:38.290] Assembly: UltimateWinterMelonCannon.MelonLoader.dll
+[19:45:38.290] ------------------------------
+[19:45:38.292] ------------------------------
+[19:45:38.292] AudioImportLib v1.0.0
+[19:45:38.292] by trev & zCubed
+[19:45:38.292] Assembly: AudioImportLib.dll
+[19:45:38.292] ------------------------------
+[19:45:38.292] ------------------------------
+[19:45:38.292] 27 Mods loaded.
+
+[19:45:40.512] [Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[19:45:40.893] [Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[19:45:41.027] [Il2CppInterop] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[19:45:41.079] [Il2CppInterop] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[19:45:41.097] Support Module Loaded: C:\Users\hu\Desktop\PvZ融合-二创模组增强版\GameFiles\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[19:45:41.487] [Il2CppInterop] Registered mono type CherryHypnoGatlingBlover.MelonLoader.Bullet_HypnoCherry in il2cpp domain
+[19:45:41.550] [Il2CppInterop] Registered mono type CherryHypnoGatlingBlover.MelonLoader.CherryHypnoGatlingBlover in il2cpp domain
+[19:45:41.610] [Il2CppInterop] Registered mono type ElectricPeaReborn.MelonLoader.Bullet_electricPea in il2cpp domain
+[19:45:41.686] [Il2CppInterop] Registered mono type ElectricPeaReborn.MelonLoader.ElectricPea in il2cpp domain
+[19:45:42.066] [Il2CppInterop] Registered mono type GatlingIronPuff.MelonLoader.Bullet_PuffIronPeaPierce in il2cpp domain
+[19:45:42.134] [Il2CppInterop] Registered mono type GatlingIronPuff.MelonLoader.GatlingIronPuff in il2cpp domain
+[19:45:42.189] [Il2CppInterop] Registered mono type IceDoomCherryJalapeno.MelonLoader.IceDoomCherryJalapeno in il2cpp domain
+[19:45:42.246] [Il2CppInterop] Registered mono type IceDoomScaredyShroom.MelonLoader.IceDoomScaredyShroom in il2cpp domain
+[19:45:42.322] [Il2CppInterop] Registered mono type IceMelonCannon.MelonLoader.IceMelonCannon in il2cpp domain
+[19:45:42.390] [Il2CppInterop] Registered mono type IronPeasExtra.MelonLoader.BigIronGatlingPea in il2cpp domain
+[19:45:42.452] [Il2CppInterop] Registered mono type IronPeasExtra.MelonLoader.SuperIronGatling in il2cpp domain
+[19:45:42.507] [Il2CppInterop] Registered mono type MilkyBlover.MelonLoader.MilkyBlover in il2cpp domain
+[19:45:42.574] [Il2CppInterop] Registered mono type ObsidianDollZombie.MelonLoader.ObsidianDollZombie in il2cpp domain
+[19:45:42.638] [Il2CppInterop] Registered mono type ObsidianRandomZombie.MelonLoader.ObsidianRandomZombie in il2cpp domain
+[19:45:42.711] [Il2CppInterop] Registered mono type SuperDiamondNut.MelonLoader.SuperDiamondNut in il2cpp domain
+[19:45:42.769] [Il2CppInterop] Registered mono type SuperDoomSqualour.MelonLoader.SuperDoomSqualour in il2cpp domain
+[19:45:42.838] [Il2CppInterop] Registered mono type SuperGarlicFume.MelonLoader.SuperGarlicFume in il2cpp domain
+[19:45:42.905] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperChomperUmbrella in il2cpp domain
+[19:45:42.971] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperCornUmbrella in il2cpp domain
+[19:45:43.037] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperDoomUmbrella in il2cpp domain
+[19:45:43.098] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperGarlicUmbrella in il2cpp domain
+[19:45:43.178] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperHypnoUmbrella in il2cpp domain
+[19:45:43.244] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperIceUmbrella in il2cpp domain
+[19:45:43.310] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperJalapenoUmbrella in il2cpp domain
+[19:45:43.367] [Il2CppInterop] Registered mono type ToolMod.DataProcessor in il2cpp domain
+[19:45:43.439] [Il2CppInterop] Registered mono type ToolMod.PatchMgr in il2cpp domain
+[19:45:43.831] [Il2CppInterop] Registered mono type UltimateCornPlus.MelonLoader.Bullet_UltimateButter in il2cpp domain
+[19:45:43.902] [Il2CppInterop] Registered mono type UltimateCornPlus.MelonLoader.UltimateCornPlus in il2cpp domain
+[19:45:43.968] [Il2CppInterop] Registered mono type UltimateWinterMelonCannon.MelonLoader.UltimateWinterMelonCannon in il2cpp domain
+[19:45:46.794] Better Pot Fusion is loaded!
+[19:45:46.794] Better Pot Fusion is loaded!
+[19:45:46.794] OnApplicationStart
+[19:45:53.442] [PvZ_Fusion_Translator] Textures loaded successfully.
+[19:45:53.518] [PvZ Fusion Translator] Preferences Saved!
+[19:45:53.523] [AudioImportLib] Loading BASS from C:\Users\hu\Desktop\PvZ融合-二创模组增强版\GameFiles\UserData\AudioImportLib\bass.dll
+[19:45:54.289] [PvZ_Fusion_Translator] Added Override: Boss
+[19:45:56.110] [PvZ_Fusion_Translator] Added Override: Boss2
+[19:45:56.592] [PvZ_Fusion_Translator] Added Override: Day
+[19:45:57.374] [PvZ_Fusion_Translator] Added Override: Day_drum
+[19:45:58.210] [PvZ_Fusion_Translator] Added Override: Fog
+[19:46:00.233] [PvZ_Fusion_Translator] Added Override: Fog_drum
+[19:46:00.958] [PvZ_Fusion_Translator] Added Override: Garden
+[19:46:02.825] [PvZ_Fusion_Translator] Added Override: IZ
+[19:46:03.243] [PvZ_Fusion_Translator] Added Override: loon
+[19:46:03.492] [PvZ_Fusion_Translator] Added Override: MainMenu
+[19:46:04.350] [PvZ_Fusion_Translator] Added Override: MainMenu2.0.4
+[19:46:07.895] [PvZ_Fusion_Translator] Added Override: MainMenu2.1.6
+[19:46:08.339] [PvZ_Fusion_Translator] Added Override: MainMenu2.4.2
+[19:46:09.015] [PvZ_Fusion_Translator] Added Override: Night
+[19:46:10.107] [PvZ_Fusion_Translator] Added Override: Night_drum
+[19:46:10.943] [PvZ_Fusion_Translator] Added Override: Pool
+[19:46:13.226] [PvZ_Fusion_Translator] Added Override: Pool_drum
+[19:46:13.768] [PvZ_Fusion_Translator] Added Override: Roof
+[19:46:14.863] [PvZ_Fusion_Translator] Added Override: Roof_drum
+[19:46:14.945] [PvZ_Fusion_Translator] Added Override: SelectCard
+[19:46:15.225] [PvZ_Fusion_Translator] Added Override: Snow
+[19:46:16.091] [PvZ_Fusion_Translator] Added Override: Snow_drum
+[19:46:17.468] [PvZ_Fusion_Translator] Added Override: UltimateBattle
+[19:46:34.500] [PvZ Fusion Translator] Preferences Saved!
+[19:46:35.106] [PVZRHCustomization] Textures loaded successfully.
+[19:46:35.619] [CherryHypnoGatlingBlover] System.IO.IOException: 句柄无效。
+   at System.ConsolePal.SetConsoleOutputEncoding(Encoding enc)
+   at System.Console.set_OutputEncoding(Encoding value)
+   at CherryHypnoGatlingBlover.MelonLoader.Core.OnInitializeMelon()
+   at MelonLoader.MelonBase.LoaderInitialized() in D:\a\MelonLoader\MelonLoader\MelonLoader\Melons\MelonBase.cs:line 447
+[19:46:35.674] [ElectricPeaReborn] System.IO.IOException: 句柄无效。
+   at System.ConsolePal.SetConsoleOutputEncoding(Encoding enc)
+   at System.Console.set_OutputEncoding(Encoding value)
+   at ElectricPeaReborn.MelonLoader.Core.OnInitializeMelon()
+   at MelonLoader.MelonBase.LoaderInitialized() in D:\a\MelonLoader\MelonLoader\MelonLoader\Melons\MelonBase.cs:line 447
+[19:46:35.736] [GatlingIronPuff] System.IO.IOException: 句柄无效。
+   at System.ConsolePal.SetConsoleOutputEncoding(Encoding enc)
+   at System.Console.set_OutputEncoding(Encoding value)
+   at GatlingIronPuff.MelonLoader.Core.OnInitializeMelon()
+   at MelonLoader.MelonBase.LoaderInitialized() in D:\a\MelonLoader\MelonLoader\MelonLoader\Melons\MelonBase.cs:line 447
+[19:46:35.778] [HypnoSquash] System.IO.IOException: 句柄无效。
+   at System.ConsolePal.SetConsoleOutputEncoding(Encoding enc)
+   at System.Console.set_OutputEncoding(Encoding value)
+   at HypnoSquash.MelonLoader.Core.OnInitializeMelon()
+   at MelonLoader.MelonBase.LoaderInitialized() in D:\a\MelonLoader\MelonLoader\MelonLoader\Melons\MelonBase.cs:line 447
+[19:46:35.825] [IceDoomCherryJalapeno] System.IO.IOException: 句柄无效。
+   at System.ConsolePal.SetConsoleOutputEncoding(Encoding enc)
+   at System.Console.set_OutputEncoding(Encoding value)
+   at IceDoomCherryJalapeno.MelonLoader.Core.OnInitializeMelon()
+   at MelonLoader.MelonBase.LoaderInitialized() in D:\a\MelonLoader\MelonLoader\MelonLoader\Melons\MelonBase.cs:line 447
+[19:46:35.831] [IceDoomScaredyShroom] System.IO.IOException: 句柄无效。
+   at System.ConsolePal.SetConsoleOutputEncoding(Encoding enc)
+   at System.Console.set_OutputEncoding(Encoding value)
+   at IceDoomScaredyShroom.MelonLoader.Core.OnInitializeMelon()
+   at MelonLoader.MelonBase.LoaderInitialized() in D:\a\MelonLoader\MelonLoader\MelonLoader\Melons\MelonBase.cs:line 447
+[19:46:36.740] [IceMelonCannon] Successfully load AssetBundle icemeloncannon.

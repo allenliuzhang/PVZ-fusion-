@@ -1,0 +1,1075 @@
+
+[19:50:08.448] ------------------------------
+[19:50:08.458] MelonLoader v0.7.0 Open-Beta
+[19:50:08.460] OS: Windows 10
+[19:50:08.461] Hash Code: 72EB65FC06D8CACD193CD21D9E7D708128C85D36C429D62C2BE9BB24217EF1EC
+[19:50:08.461] ------------------------------
+[19:50:08.462] Game Type: Il2cpp
+[19:50:08.462] Game Arch: x64
+[19:50:08.463] ------------------------------
+[19:50:08.463] Command-Line: 
+[19:50:08.463] ------------------------------
+[19:50:08.463] Core::BasePath = C:\Users\Administrator\Pictures\Pvz\GameFiles
+[19:50:08.464] Game::BasePath = C:\Users\Administrator\Pictures\Pvz\GameFiles
+[19:50:08.464] Game::DataPath = C:\Users\Administrator\Pictures\Pvz\GameFiles\PlantsVsZombiesRH_Data
+[19:50:08.464] Game::ApplicationPath = C:\Users\Administrator\Pictures\Pvz\GameFiles\PlantsVsZombiesRH.exe
+[19:50:08.465] Runtime Type: net6
+[19:50:08.664] ------------------------------
+[19:50:08.664] Game Name: PlantsVsZombiesRH
+[19:50:08.665] Game Developer: LanPiaoPiao
+[19:50:08.668] Unity Version: 2022.3.20f1c1
+[19:50:08.668] Game Version: 2.5
+[19:50:08.668] ------------------------------
+
+[19:50:11.165] Preferences Loaded!
+
+[19:50:11.194] Loading UserLibs...
+[19:50:11.232] ------------------------------
+[19:50:11.238] Melon Assembly loaded: '.\UserLibs\ToolModData.dll'
+[19:50:11.238] SHA256 Hash: 'AD02DA2D1CB0DB2D2A011F4847D2961596CF48C677D02A78655C647F4237AB56'
+[19:50:11.239] ------------------------------
+[19:50:11.239] 0 UserLibs loaded.
+
+[19:50:11.239] Loading Plugins...
+[19:50:11.247] 0 Plugins loaded.
+
+[19:50:12.237] Loading Il2CppAssemblyGenerator...
+[19:50:12.317] [Il2CppAssemblyGenerator] Using Cpp2IL Version: 2022.1.0-pre-release.19
+[19:50:12.317] [Il2CppAssemblyGenerator] Using Il2CppInterop Version = 1.4.6-ci.579+9d4599dc78d69ede49a2ee96a1ccf41eec02db5b
+[19:50:12.317] [Il2CppAssemblyGenerator] Using Unity Dependencies Version = 2022.3.20
+[19:50:12.317] [Il2CppAssemblyGenerator] Using Deobfuscation Regex = null
+[19:50:12.318] [Il2CppAssemblyGenerator] Cpp2IL is up to date.
+[19:50:12.319] [Il2CppAssemblyGenerator] Cpp2IL.Plugin.StrippedCodeRegSupport is up to date.
+[19:50:12.319] [Il2CppAssemblyGenerator] UnityDependencies is up to date.
+[19:50:12.320] [Il2CppAssemblyGenerator] Checking GameAssembly...
+[19:50:12.546] [Il2CppAssemblyGenerator] Assembly is up to date. No Generation Needed.
+
+[19:50:12.548] Loading Mods...
+[19:50:12.596] ------------------------------
+[19:50:12.625] Melon Assembly loaded: '.\Mods\AudioImportLib.dll'
+[19:50:12.625] SHA256 Hash: '92484FABE1C1F12590112FFCABDEBE5DA6FC23D38A0DFB77DD344589716C50DF'
+[19:50:12.631] Melon Assembly loaded: '.\Mods\Better_Pot_Fusion.dll'
+[19:50:12.632] SHA256 Hash: '3DB80218CF758CD910E3C6B93AFFBCA206A58574A4E9EF9F3E1F4CD5864C51C7'
+[19:50:12.634] Melon Assembly loaded: '.\Mods\Better_Pumpkin_Fusion.dll'
+[19:50:12.635] SHA256 Hash: '6F7D1C91BF2291654305498E051D296C34A7586031CB242EE63E2CD866AFE81A'
+[19:50:12.645] Melon Assembly loaded: '.\Mods\CherryHypnoGatlingBlover.MelonLoader.dll'
+[19:50:12.646] SHA256 Hash: 'C0BAA52684FC56DCEFA61925D68196A57420DD5F899D34B6406B3B6D746E7636'
+[19:50:12.655] Melon Assembly loaded: '.\Mods\CustomizeLib.MelonLoader.dll'
+[19:50:12.655] SHA256 Hash: '7BC8AC483549C543E64CDBCA5D14D60DF546A259EFF8D109B795804041409C92'
+[19:50:12.689] Melon Assembly loaded: '.\Mods\ElectricPeaReborn.MelonLoader.dll'
+[19:50:12.689] SHA256 Hash: 'B63856253E504632D70C243C69093A15008632DF124EB70148260E118B5EBB8D'
+[19:50:12.694] Melon Assembly loaded: '.\Mods\FIDLoader.dll'
+[19:50:12.695] SHA256 Hash: '4D02D5D26855C8E1BBCC4434D9019805EB603852D15EF9A83D64BCE3068CC632'
+[19:50:12.704] Melon Assembly loaded: '.\Mods\GatlingIronPuff.MelonLoader.dll'
+[19:50:12.704] SHA256 Hash: '06573EF3DB0B9D0EBA712F69C59B4CE7882EFAE8834821FA198666A92056FDA5'
+[19:50:12.710] Melon Assembly loaded: '.\Mods\HypnoSquash.MelonLoader.dll'
+[19:50:12.710] SHA256 Hash: '8558CE4C06E6E986B9793AC9E5AEF4347C7B9270F059E1428CF79B7D798109F4'
+[19:50:12.718] Melon Assembly loaded: '.\Mods\IceDoomCherryJalapeno.MelonLoader.dll'
+[19:50:12.718] SHA256 Hash: '32464273B541B58F8FE80D64DF7AB40954B1E3FDBA32C2030E74B6A95AD15984'
+[19:50:12.726] Melon Assembly loaded: '.\Mods\IceDoomScaredyShroom.MelonLoader.dll'
+[19:50:12.726] SHA256 Hash: 'EE0EBE8F9DA85811538D377507006F93BB08D6B38FBDBF2325A169DAD455141F'
+[19:50:12.762] Melon Assembly loaded: '.\Mods\IceMelonCannon.MelonLoader.dll'
+[19:50:12.762] SHA256 Hash: '20AEE878F7D47D4B998FB527949F9B4F9AD2B30AFA518915AB67EF192D40CC6E'
+[19:50:12.795] Melon Assembly loaded: '.\Mods\IronPeasExtra.MelonLoader.dll'
+[19:50:12.795] SHA256 Hash: 'E71B59C32BC7C536369183A90FBF5C20439A19527BD8E7F9E227E45F2375250E'
+[19:50:12.807] Melon Assembly loaded: '.\Mods\MilkyBlover.MelonLoader.dll'
+[19:50:12.809] SHA256 Hash: 'F8B713A9B468B061FD48750E72FA0EBB8DB99D3D856A40740E71CA24A56F23D1'
+[19:50:12.820] Melon Assembly loaded: '.\Mods\ObsidianDollZombie.MelonLoader.dll'
+[19:50:12.820] SHA256 Hash: 'E4F17209BF492D26F5F6F94F25BFCF3027F15FEE4D87E438765A78EB42EB430F'
+[19:50:12.832] Melon Assembly loaded: '.\Mods\ObsidianRandomZombie.MelonLoader.dll'
+[19:50:12.833] SHA256 Hash: '888AD134E132D8362253DF5F27392A7259D4E36193C4432E84D2082D10F1423C'
+[19:50:12.837] Melon Assembly loaded: '.\Mods\PvZ-Fusion-DRPC.dll'
+[19:50:12.837] SHA256 Hash: 'E1CBE68F56CA45C468402F943C8CF9F65B72EE57A8D5C6D8C7364CA9B73DF54B'
+[19:50:12.843] Melon Assembly loaded: '.\Mods\PVZRH_PlM.dll'
+[19:50:12.845] SHA256 Hash: '74FE9CE1A85D4F9D1D6B571A656F039F86AFEBB2C51A9E14CFEAFBB24F8795DC'
+[19:50:12.853] Melon Assembly loaded: '.\Mods\PvZ_Fusion_Translator.dll'
+[19:50:12.854] SHA256 Hash: '0EE7D6DDFAA03AF87A4EE644C717305090EFCB544044498E4325CAE68F7216DC'
+[19:50:12.856] Melon Assembly loaded: '.\Mods\SelectCustomPlants.MelonLoader.dll'
+[19:50:12.858] SHA256 Hash: '35316035A625C5BB37BDC0004A76DD436363A1E8DF0A9327AA9F31F9A17A6288'
+[19:50:12.883] Melon Assembly loaded: '.\Mods\SuperDiamondNut.MelonLoader.dll'
+[19:50:12.884] SHA256 Hash: '5D1FB678DD1262ABFFA7FEB0319537FB99BAF1E4EED43BC2D0F6F362CEA39687'
+[19:50:12.893] Melon Assembly loaded: '.\Mods\SuperDoomSqualour.MelonLoader.dll'
+[19:50:12.893] SHA256 Hash: 'AF6A14AFD8257C26486FF3A451E6FFDB11AB28542FEE0E1C10F894C1D3B26B1A'
+[19:50:12.904] Melon Assembly loaded: '.\Mods\SuperGarlicFume.MelonLoader.dll'
+[19:50:12.904] SHA256 Hash: '2E9AF3BB59AE225B6CAD18B7FF9C54B54BDD208B403C38FE480AF166C7C54331'
+[19:50:12.949] Melon Assembly loaded: '.\Mods\SuperUmbrellasExtra.MelonLoader.dll'
+[19:50:12.949] SHA256 Hash: 'E778F3333C6AFE063F8D7B59868A4E153D1CC997E10CB06811D528ABEAE6C9B9'
+[19:50:12.955] Melon Assembly loaded: '.\Mods\ToolMod.dll'
+[19:50:12.956] SHA256 Hash: '56E39FDB073BEDFF9E5471F3FE9431922D83428598151495906D7330CCF6BE3D'
+[19:50:12.961] Melon Assembly loaded: '.\Mods\UltimateCornPlus.MelonLoader.dll'
+[19:50:12.962] SHA256 Hash: '6D7FC5F1109EBA8B6A390706012E39006B5B1A22B49DB79F1A05DA2251B6CC2A'
+[19:50:12.980] Melon Assembly loaded: '.\Mods\UltimateWinterMelonCannon.MelonLoader.dll'
+[19:50:12.984] SHA256 Hash: 'E125470573420DB9A306D45A00FC87AE16F918C26FA35CE31A683B4FCDEA99A8'
+
+[19:50:13.482] ------------------------------
+[19:50:13.483] Better Pot Fusion v231.0.0
+[19:50:13.484] by dynaslash, JustNull & Mamoru-kun
+[19:50:13.487] Assembly: Better_Pot_Fusion.dll
+[19:50:13.488] ------------------------------
+[19:50:13.491] ------------------------------
+[19:50:13.492] Better Pumpkin Fusion v231.0.0
+[19:50:13.492] by dynaslash, JustNull & Mamoru-kun
+[19:50:13.493] Assembly: Better_Pumpkin_Fusion.dll
+[19:50:13.494] ------------------------------
+[19:50:13.503] ------------------------------
+[19:50:13.503] Fusion ID .fid Loader v1.0.0
+[19:50:13.504] by Fusion-ID
+[19:50:13.505] Assembly: FIDLoader.dll
+[19:50:13.505] ------------------------------
+[19:50:13.508] ------------------------------
+[19:50:13.508] PvZ Fusion Discord Rich Presence v1.0.0
+[19:50:13.509] by cassidy
+[19:50:13.510] Assembly: PvZ-Fusion-DRPC.dll
+[19:50:13.515] ------------------------------
+[19:50:13.525] ------------------------------
+[19:50:13.525] PvZ Fusion Translator v0.3.0
+[19:50:13.526] by dynaslash / arifrios1st
+[19:50:13.529] Assembly: PvZ_Fusion_Translator.dll
+[19:50:13.530] ------------------------------
+[19:50:13.536] ------------------------------
+[19:50:13.536] PVZRH_PlM v2.5.1
+[19:50:13.537] by Salmon
+[19:50:13.540] Assembly: PVZRH_PlM.dll
+[19:50:13.540] ------------------------------
+[19:50:13.544] ------------------------------
+[19:50:13.544] PVZRHCustomization v2.5.1-2.3
+[19:50:13.544] by Infinite75
+[19:50:13.545] Assembly: CustomizeLib.MelonLoader.dll
+[19:50:13.550] ------------------------------
+[19:50:13.556] ------------------------------
+[19:50:13.556] CherryHypnoGatlingBlover v1.0.0
+[19:50:13.557] by likefengzi
+[19:50:13.557] Assembly: CherryHypnoGatlingBlover.MelonLoader.dll
+[19:50:13.558] ------------------------------
+[19:50:13.562] ------------------------------
+[19:50:13.562] ElectricPeaReborn v1.0
+[19:50:13.566] by Infinite75
+[19:50:13.567] Assembly: ElectricPeaReborn.MelonLoader.dll
+[19:50:13.567] ------------------------------
+[19:50:13.571] ------------------------------
+[19:50:13.572] GatlingIronPuff v1.0.0
+[19:50:13.573] by likefengzi
+[19:50:13.576] Assembly: GatlingIronPuff.MelonLoader.dll
+[19:50:13.576] ------------------------------
+[19:50:13.582] ------------------------------
+[19:50:13.583] HypnoSquash v1.0
+[19:50:13.583] by Infinite75
+[19:50:13.587] Assembly: HypnoSquash.MelonLoader.dll
+[19:50:13.587] ------------------------------
+[19:50:13.590] ------------------------------
+[19:50:13.590] IceDoomCherryJalapeno v1.0
+[19:50:13.591] by Infinite75
+[19:50:13.592] Assembly: IceDoomCherryJalapeno.MelonLoader.dll
+[19:50:13.592] ------------------------------
+[19:50:13.602] ------------------------------
+[19:50:13.603] IceDoomScaredyShroom v1.0
+[19:50:13.603] by Infinite75
+[19:50:13.604] Assembly: IceDoomScaredyShroom.MelonLoader.dll
+[19:50:13.605] ------------------------------
+[19:50:13.609] ------------------------------
+[19:50:13.609] IceMelonCannon v1.0
+[19:50:13.611] by Infinite75
+[19:50:13.612] Assembly: IceMelonCannon.MelonLoader.dll
+[19:50:13.614] ------------------------------
+[19:50:13.618] ------------------------------
+[19:50:13.618] IronPeasExtra v1.0
+[19:50:13.619] by Infinite75
+[19:50:13.622] Assembly: IronPeasExtra.MelonLoader.dll
+[19:50:13.622] ------------------------------
+[19:50:13.626] ------------------------------
+[19:50:13.626] MilkyBlover v1.0
+[19:50:13.630] by Infinite75
+[19:50:13.633] Assembly: MilkyBlover.MelonLoader.dll
+[19:50:13.634] ------------------------------
+[19:50:13.637] ------------------------------
+[19:50:13.637] ObsidianDollZombie v1.0
+[19:50:13.638] by Infinite75
+[19:50:13.639] Assembly: ObsidianDollZombie.MelonLoader.dll
+[19:50:13.642] ------------------------------
+[19:50:13.649] ------------------------------
+[19:50:13.649] ObsidianRandomZombie v1.0
+[19:50:13.651] by Infinite75
+[19:50:13.652] Assembly: ObsidianRandomZombie.MelonLoader.dll
+[19:50:13.655] ------------------------------
+[19:50:13.658] ------------------------------
+[19:50:13.658] SelectCustomPlants v1.0.0
+[19:50:13.658] by likefengzi
+[19:50:13.659] Assembly: SelectCustomPlants.MelonLoader.dll
+[19:50:13.660] ------------------------------
+[19:50:13.668] ------------------------------
+[19:50:13.669] SuperDiamondNut v1.0
+[19:50:13.669] by Infinite75
+[19:50:13.671] Assembly: SuperDiamondNut.MelonLoader.dll
+[19:50:13.672] ------------------------------
+[19:50:13.675] ------------------------------
+[19:50:13.675] SuperDoomSqualour v1.0
+[19:50:13.675] by Infinite75
+[19:50:13.676] Assembly: SuperDoomSqualour.MelonLoader.dll
+[19:50:13.677] ------------------------------
+[19:50:13.684] ------------------------------
+[19:50:13.685] SuperGarlicFume v1.0
+[19:50:13.685] by Infinite75
+[19:50:13.686] Assembly: SuperGarlicFume.MelonLoader.dll
+[19:50:13.686] ------------------------------
+[19:50:13.690] ------------------------------
+[19:50:13.690] SuperUmbrellasExtra v1.0
+[19:50:13.690] by Infinite75
+[19:50:13.692] Assembly: SuperUmbrellasExtra.MelonLoader.dll
+[19:50:13.695] ------------------------------
+[19:50:13.703] ------------------------------
+[19:50:13.703] ToolMod v2.5.1-3.22
+[19:50:13.703] by Infinite75
+[19:50:13.704] Assembly: ToolMod.dll
+[19:50:13.705] ------------------------------
+[19:50:13.713] ------------------------------
+[19:50:13.715] UltimateCornPlus v1.0.0
+[19:50:13.715] by likefengzi
+[19:50:13.717] Assembly: UltimateCornPlus.MelonLoader.dll
+[19:50:13.718] ------------------------------
+[19:50:13.724] ------------------------------
+[19:50:13.725] UltimateWinterMelonCannon v1.0
+[19:50:13.726] by Infinite75
+[19:50:13.726] Assembly: UltimateWinterMelonCannon.MelonLoader.dll
+[19:50:13.727] ------------------------------
+[19:50:13.736] ------------------------------
+[19:50:13.737] AudioImportLib v1.0.0
+[19:50:13.737] by trev & zCubed
+[19:50:13.738] Assembly: AudioImportLib.dll
+[19:50:13.739] ------------------------------
+[19:50:13.740] ------------------------------
+[19:50:13.740] 27 Mods loaded.
+
+[19:50:15.928] [Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[19:50:16.297] [Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[19:50:16.404] [Il2CppInterop] Registered mono type MelonLoader.Support.MonoEnumeratorWrapper in il2cpp domain
+[19:50:16.479] [Il2CppInterop] Registered mono type MelonLoader.Support.SM_Component in il2cpp domain
+[19:50:16.514] Support Module Loaded: C:\Users\Administrator\Pictures\Pvz\GameFiles\MelonLoader\Dependencies\SupportModules\Il2Cpp.dll
+[19:50:16.914] [Il2CppInterop] Registered mono type CherryHypnoGatlingBlover.MelonLoader.Bullet_HypnoCherry in il2cpp domain
+[19:50:16.966] [Il2CppInterop] Registered mono type CherryHypnoGatlingBlover.MelonLoader.CherryHypnoGatlingBlover in il2cpp domain
+[19:50:17.023] [Il2CppInterop] Registered mono type ElectricPeaReborn.MelonLoader.Bullet_electricPea in il2cpp domain
+[19:50:17.074] [Il2CppInterop] Registered mono type ElectricPeaReborn.MelonLoader.ElectricPea in il2cpp domain
+[19:50:17.444] [Il2CppInterop] Registered mono type GatlingIronPuff.MelonLoader.Bullet_PuffIronPeaPierce in il2cpp domain
+[19:50:17.518] [Il2CppInterop] Registered mono type GatlingIronPuff.MelonLoader.GatlingIronPuff in il2cpp domain
+[19:50:17.577] [Il2CppInterop] Registered mono type IceDoomCherryJalapeno.MelonLoader.IceDoomCherryJalapeno in il2cpp domain
+[19:50:17.637] [Il2CppInterop] Registered mono type IceDoomScaredyShroom.MelonLoader.IceDoomScaredyShroom in il2cpp domain
+[19:50:17.706] [Il2CppInterop] Registered mono type IceMelonCannon.MelonLoader.IceMelonCannon in il2cpp domain
+[19:50:17.766] [Il2CppInterop] Registered mono type IronPeasExtra.MelonLoader.BigIronGatlingPea in il2cpp domain
+[19:50:17.826] [Il2CppInterop] Registered mono type IronPeasExtra.MelonLoader.SuperIronGatling in il2cpp domain
+[19:50:17.889] [Il2CppInterop] Registered mono type MilkyBlover.MelonLoader.MilkyBlover in il2cpp domain
+[19:50:17.949] [Il2CppInterop] Registered mono type ObsidianDollZombie.MelonLoader.ObsidianDollZombie in il2cpp domain
+[19:50:18.030] [Il2CppInterop] Registered mono type ObsidianRandomZombie.MelonLoader.ObsidianRandomZombie in il2cpp domain
+[19:50:18.095] [Il2CppInterop] Registered mono type SuperDiamondNut.MelonLoader.SuperDiamondNut in il2cpp domain
+[19:50:18.171] [Il2CppInterop] Registered mono type SuperDoomSqualour.MelonLoader.SuperDoomSqualour in il2cpp domain
+[19:50:18.235] [Il2CppInterop] Registered mono type SuperGarlicFume.MelonLoader.SuperGarlicFume in il2cpp domain
+[19:50:18.309] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperChomperUmbrella in il2cpp domain
+[19:50:18.373] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperCornUmbrella in il2cpp domain
+[19:50:18.436] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperDoomUmbrella in il2cpp domain
+[19:50:18.502] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperGarlicUmbrella in il2cpp domain
+[19:50:18.565] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperHypnoUmbrella in il2cpp domain
+[19:50:18.644] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperIceUmbrella in il2cpp domain
+[19:50:18.708] [Il2CppInterop] Registered mono type SuperUmbrellasExtra.MelonLoader.SuperJalapenoUmbrella in il2cpp domain
+[19:50:18.781] [Il2CppInterop] Registered mono type ToolMod.DataProcessor in il2cpp domain
+[19:50:18.864] [Il2CppInterop] Registered mono type ToolMod.PatchMgr in il2cpp domain
+[19:50:19.236] [Il2CppInterop] Registered mono type UltimateCornPlus.MelonLoader.Bullet_UltimateButter in il2cpp domain
+[19:50:19.289] [Il2CppInterop] Registered mono type UltimateCornPlus.MelonLoader.UltimateCornPlus in il2cpp domain
+[19:50:19.337] [Il2CppInterop] Registered mono type UltimateWinterMelonCannon.MelonLoader.UltimateWinterMelonCannon in il2cpp domain
+[19:50:30.485] Better Pot Fusion is loaded!
+[19:50:30.487] Better Pot Fusion is loaded!
+[19:50:30.488] OnApplicationStart
+[19:50:36.042] [PvZ_Fusion_Translator] Textures loaded successfully.
+[19:50:36.099] [PvZ Fusion Translator] Preferences Saved!
+[19:50:36.104] [AudioImportLib] Loading BASS from C:\Users\Administrator\Pictures\Pvz\GameFiles\UserData\AudioImportLib\bass.dll
+[19:50:38.571] [PvZ_Fusion_Translator] Added Override: Boss
+[19:50:39.315] [PvZ_Fusion_Translator] Added Override: Boss2
+[19:50:40.012] [PvZ_Fusion_Translator] Added Override: Day
+[19:50:40.794] [PvZ_Fusion_Translator] Added Override: Day_drum
+[19:50:41.379] [PvZ_Fusion_Translator] Added Override: Fog
+[19:50:41.946] [PvZ_Fusion_Translator] Added Override: Fog_drum
+[19:50:42.445] [PvZ_Fusion_Translator] Added Override: Garden
+[19:50:45.556] [PvZ_Fusion_Translator] Added Override: IZ
+[19:50:46.033] [PvZ_Fusion_Translator] Added Override: loon
+[19:50:46.289] [PvZ_Fusion_Translator] Added Override: MainMenu
+[19:50:46.750] [PvZ_Fusion_Translator] Added Override: MainMenu2.0.4
+[19:50:47.237] [PvZ_Fusion_Translator] Added Override: MainMenu2.1.6
+[19:50:47.504] [PvZ_Fusion_Translator] Added Override: MainMenu2.4.2
+[19:50:47.992] [PvZ_Fusion_Translator] Added Override: Night
+[19:50:48.419] [PvZ_Fusion_Translator] Added Override: Night_drum
+[19:50:49.271] [PvZ_Fusion_Translator] Added Override: Pool
+[19:50:50.242] [PvZ_Fusion_Translator] Added Override: Pool_drum
+[19:50:50.803] [PvZ_Fusion_Translator] Added Override: Roof
+[19:50:51.391] [PvZ_Fusion_Translator] Added Override: Roof_drum
+[19:50:51.471] [PvZ_Fusion_Translator] Added Override: SelectCard
+[19:50:51.719] [PvZ_Fusion_Translator] Added Override: Snow
+[19:50:51.968] [PvZ_Fusion_Translator] Added Override: Snow_drum
+[19:50:52.572] [PvZ_Fusion_Translator] Added Override: UltimateBattle
+[19:50:54.164] [PvZ Fusion Translator] Preferences Saved!
+[19:50:54.355] [PVZRHCustomization] Textures loaded successfully.
+[19:50:54.518] [CherryHypnoGatlingBlover] Successfully load AssetBundle cherryhypnogatlingblover.
+[19:50:55.016] [ElectricPeaReborn] Successfully load AssetBundle electricpea.
+[19:50:55.410] [GatlingIronPuff] Successfully load AssetBundle gatlingironpuff.
+[19:50:55.475] [HypnoSquash] Successfully load AssetBundle hypnosquash.
+[19:50:55.539] [IceDoomCherryJalapeno] Successfully load AssetBundle icedoomcherryjalapeno.
+[19:50:55.606] [IceDoomScaredyShroom] Successfully load AssetBundle icedoomscaredyshroom.
+[19:50:55.867] [IceMelonCannon] Successfully load AssetBundle icemeloncannon.
+[19:50:56.167] [IronPeasExtra] Successfully load AssetBundle ironpeas.
+[19:50:56.244] [MilkyBlover] Successfully load AssetBundle milkyblover.
+[19:50:56.343] [ObsidianDollZombie] Successfully load AssetBundle obsidiandollzombie.
+[19:50:56.426] [ObsidianRandomZombie] Successfully load AssetBundle obsidianrandomzombie.
+[19:50:56.596] [SuperDiamondNut] Successfully load AssetBundle superdiamondnut.
+[19:50:56.694] [SuperDoomSqualour] Successfully load AssetBundle superdoomsqualour.
+[19:50:56.794] [SuperGarlicFume] Successfully load AssetBundle supergarlicfume.
+[19:50:57.239] [SuperUmbrellasExtra] Successfully load AssetBundle superumbrellasextra.
+[19:50:57.316] [ToolMod] MelonPreferences Saved to C:\Users\Administrator\Pictures\Pvz\GameFiles\UserData\MelonPreferences.cfg
+[19:50:57.365] [UltimateCornPlus] Successfully load AssetBundle ultimatecornplus.
+[19:50:57.523] [UltimateWinterMelonCannon] Successfully load AssetBundle ultimatewintermeloncannon.
+[19:51:14.169] Root Folder: C:\Users\Administrator\Pictures\Pvz\GameFiles
+[19:51:15.889] [PVZRH_PlM] PVZRH_PlM 加载成功！
+[19:51:15.929] [PVZRH_PlM] [你知道吗]新版的PVZRH_PlM已经支持了在主菜单界面修改功能，妈妈再也不用担心开了时停之后关不了功能了！
+[19:51:15.946] [PVZRH_PlM] Server started!
+[19:51:15.949] [PVZRH_PlM] Waiting for client connection...
+[19:51:19.727] [ToolMod] 以下id信息为动态生成，仅适用于当前游戏实例！！！
+[19:51:19.727] [ToolMod] 以下id信息为动态生成，仅适用于当前游戏实例！！！
+[19:51:19.728] [ToolMod] 以下id信息为动态生成，仅适用于当前游戏实例！！！
+[19:51:19.894] [ToolMod] Dumping Plant String: 0 : 豌豆射手(0)
+[19:51:19.904] [ToolMod] Dumping Plant String: 1 : 向日葵(1)
+[19:51:19.909] [ToolMod] Dumping Plant String: 2 : 樱桃炸弹(2)
+[19:51:19.915] [ToolMod] Dumping Plant String: 3 : 坚果(3)
+[19:51:19.924] [ToolMod] Dumping Plant String: 4 : 土豆雷(4)
+[19:51:19.933] [ToolMod] Dumping Plant String: 5 : 大嘴花(5)
+[19:51:19.943] [ToolMod] Dumping Plant String: 6 : 小喷菇(6)
+[19:51:19.950] [ToolMod] Dumping Plant String: 7 : 大喷菇(7)
+[19:51:19.962] [ToolMod] Dumping Plant String: 8 : 魅惑菇(8)
+[19:51:19.968] [ToolMod] Dumping Plant String: 9 : 胆小菇(9)
+[19:51:19.975] [ToolMod] Dumping Plant String: 10 : 寒冰菇(10)
+[19:51:19.980] [ToolMod] Dumping Plant String: 11 : 毁灭菇(11)
+[19:51:19.986] [ToolMod] Dumping Plant String: 12 : 睡莲(12)
+[19:51:19.995] [ToolMod] Dumping Plant String: 13 : 窝瓜(13)
+[19:51:20.003] [ToolMod] Dumping Plant String: 14 : 三线射手(14)
+[19:51:20.010] [ToolMod] Dumping Plant String: 15 : 缠绕水草(15)
+[19:51:20.017] [ToolMod] Dumping Plant String: 16 : 火爆辣椒(16)
+[19:51:20.027] [ToolMod] Dumping Plant String: 17 : 地刺(17)
+[19:51:20.034] [ToolMod] Dumping Plant String: 18 : 火炬树桩(18)
+[19:51:20.046] [ToolMod] Dumping Plant String: 19 : 海蘑菇(19)
+[19:51:20.054] [ToolMod] Dumping Plant String: 20 : 路灯花(20)
+[19:51:20.061] [ToolMod] Dumping Plant String: 21 : 仙人掌(21)
+[19:51:20.067] [ToolMod] Dumping Plant String: 22 : 三叶草(22)
+[19:51:20.076] [ToolMod] Dumping Plant String: 23 : 杨桃(23)
+[19:51:20.081] [ToolMod] Dumping Plant String: 24 : 南瓜(24)
+[19:51:20.102] [ToolMod] Dumping Plant String: 25 : 磁力菇(25)
+[19:51:20.111] [ToolMod] Dumping Plant String: 26 : 卷心菜投手(26)
+[19:51:20.115] [ToolMod] Dumping Plant String: 27 : 花盆(27)
+[19:51:20.123] [ToolMod] Dumping Plant String: 28 : 玉米投手(28)
+[19:51:20.128] [ToolMod] Dumping Plant String: 29 : 大蒜(29)
+[19:51:20.135] [ToolMod] Dumping Plant String: 30 : 叶子保护伞(30)
+[19:51:20.141] [ToolMod] Dumping Plant String: 31 : 金盏花(31)
+[19:51:20.147] [ToolMod] Dumping Plant String: 32 : 西瓜投手(32)
+[19:51:20.151] [ToolMod] Dumping Plant String: 33 : 钢叶草(33)
+[19:51:20.158] [ToolMod] Dumping Plant String: 34 : 闪电洋葱(34)
+[19:51:20.163] [ToolMod] Dumping Plant String: 35 : 小松炉(35)
+[19:51:20.171] [ToolMod] Dumping Plant String: 36 : 云杉弓手(36)
+[19:51:20.177] [ToolMod] Dumping Plant String: 37 : 寒冰莲花(37)
+[19:51:20.182] [ToolMod] Dumping Plant String: 38 : 水滴芦荟(38)
+[19:51:20.189] [ToolMod] Dumping Plant String: 235 : 百香双响炮(235)
+[19:51:20.194] [ToolMod] Dumping Plant String: 236 : 冻梨(236)
+[19:51:20.199] [ToolMod] Dumping Plant String: 237 : 冰刃雪莲(237)
+[19:51:20.207] [ToolMod] Dumping Plant String: 238 : 清蕊秋菊(238)
+[19:51:20.213] [ToolMod] Dumping Plant String: 239 : 墓碑吞噬者(239)
+[19:51:20.218] [ToolMod] Dumping Plant String: 240 : 黑曜石大麦(240)
+[19:51:20.227] [ToolMod] Dumping Plant String: 241 : 极寒冰豆(241)
+[19:51:20.232] [ToolMod] Dumping Plant String: 242 : 火红莲女王(242)
+[19:51:20.241] [ToolMod] Dumping Plant String: 243 : 汉堡王(243)
+[19:51:20.246] [ToolMod] Dumping Plant String: 244 : 融合洋芋(244)
+[19:51:20.251] [ToolMod] Dumping Plant String: 245 : 模仿者(245)
+[19:51:20.258] [ToolMod] Dumping Plant String: 248 : 猫瓜(248)
+[19:51:20.263] [ToolMod] Dumping Plant String: 249 : 剑仙杨桃(249)
+[19:51:20.269] [ToolMod] Dumping Plant String: 250 : 僵尸盲盒(250)
+[19:51:20.275] [ToolMod] Dumping Plant String: 251 : 巨型阳光坚果(251)
+[19:51:20.281] [ToolMod] Dumping Plant String: 252 : 魔法猫娘(252)
+[19:51:20.288] [ToolMod] Dumping Plant String: 253 : 大麦(253)
+[19:51:20.294] [ToolMod] Dumping Plant String: 254 : 火红莲(254)
+[19:51:20.300] [ToolMod] Dumping Plant String: 255 : 巨型坚果(255)
+[19:51:20.306] [ToolMod] Dumping Plant String: 256 : 惊喜礼盒(256)
+[19:51:20.312] [ToolMod] Dumping Plant String: 300 : 究极剑仙杨桃(300)
+[19:51:20.318] [ToolMod] Dumping Plant String: 900 : 魅帝菇(900)
+[19:51:20.325] [ToolMod] Dumping Plant String: 901 : 究极樱桃射手(901)
+[19:51:20.331] [ToolMod] Dumping Plant String: 902 : 究极火爆窝炬(902)
+[19:51:20.337] [ToolMod] Dumping Plant String: 903 : 究极樱桃战神(903)
+[19:51:20.344] [ToolMod] Dumping Plant String: 904 : 究极大喷菇(904)
+[19:51:20.350] [ToolMod] Dumping Plant String: 905 : 阳光帝果(905)
+[19:51:20.358] [ToolMod] Dumping Plant String: 906 : 玄钢地刺王(906)
+[19:51:20.364] [ToolMod] Dumping Plant String: 907 : 毁灭菇机枪射手(907)
+[19:51:20.369] [ToolMod] Dumping Plant String: 908 : 寒冰机枪小喷菇(908)
+[19:51:20.375] [ToolMod] Dumping Plant String: 909 : 究极杨桃大帝(909)
+[19:51:20.380] [ToolMod] Dumping Plant String: 910 : 究极忧郁菇(910)
+[19:51:20.385] [ToolMod] Dumping Plant String: 911 : 究极激光南瓜(911)
+[19:51:20.396] [ToolMod] Dumping Plant String: 912 : 究极激光无人机(912)
+[19:51:20.407] [ToolMod] Dumping Plant String: 913 : 究极黑曜石高坚果(913)
+[19:51:20.416] [ToolMod] Dumping Plant String: 914 : 究极投手(914)
+[19:51:20.429] [ToolMod] Dumping Plant String: 915 : 究极加农炮(915)
+[19:51:20.434] [ToolMod] Dumping Plant String: 916 : 绿宝石伞(916)
+[19:51:20.441] [ToolMod] Dumping Plant String: 917 : 魅后菇(917)
+[19:51:20.446] [ToolMod] Dumping Plant String: 918 : 灰烬三线射手(918)
+[19:51:20.451] [ToolMod] Dumping Plant String: 919 : 浴火三线射手(919)
+[19:51:20.459] [ToolMod] Dumping Plant String: 920 : 究极五叶草(920)
+[19:51:20.466] [ToolMod] Dumping Plant String: 921 : 究极蒜神(921)
+[19:51:20.472] [ToolMod] Dumping Plant String: 922 : 究极磁爆南瓜(922)
+[19:51:20.477] [ToolMod] Dumping Plant String: 923 : 红宝石伞(923)
+[19:51:20.483] [ToolMod] Dumping Plant String: 924 : 究极魅惑菇(924)
+[19:51:20.491] [ToolMod] Dumping Plant String: 925 : 究极黑曜石土豆坚果(925)
+[19:51:20.497] [ToolMod] Dumping Plant String: 926 : 魔法猫尾草(926)
+[19:51:20.504] [ToolMod] Dumping Plant String: 927 : 究极机枪炮台(927)
+[19:51:20.510] [ToolMod] Dumping Plant String: 928 : 幻灭菇(928)
+[19:51:20.515] [ToolMod] Dumping Plant String: 929 : 阳光机枪小喷菇(929)
+[19:51:20.522] [ToolMod] Dumping Plant String: 930 : 毁灭机枪胆小菇(930)
+[19:51:20.526] [ToolMod] Dumping Plant String: 931 : 玄钢地刺坚果(931)
+[19:51:20.533] [ToolMod] Dumping Plant String: 932 : 摇钱三线火炬(932)
+[19:51:20.540] [ToolMod] Dumping Plant String: 933 : 究极仙人掌(933)
+[19:51:20.545] [ToolMod] Dumping Plant String: 934 : 究极太阳神卷心菜(934)
+[19:51:20.551] [ToolMod] Dumping Plant String: 935 : 多功能南瓜(935)
+[19:51:20.557] [ToolMod] Dumping Plant String: 936 : 太阳能花盆(936)
+[19:51:20.564] [ToolMod] Dumping Plant String: 937 : 流光仙萤伞(937)
+[19:51:20.569] [ToolMod] Dumping Plant String: 938 : 贪欲菇(938)
+[19:51:20.576] [ToolMod] Dumping Plant String: 939 : 究极浮空樱桃射手(939)
+[19:51:20.582] [ToolMod] Dumping Plant String: 940 : 究极火神弹弹菇(940)
+[19:51:20.588] [ToolMod] Dumping Plant String: 941 : 究极贪欲水草(941)
+[19:51:20.594] [ToolMod] Dumping Plant String: 942 : 铁豆小队(942)
+[19:51:20.600] [ToolMod] Dumping Plant String: 943 : 究极超时空玉米(943)
+[19:51:20.607] [ToolMod] Dumping Plant String: 1000 : 豌豆向日葵(1000)
+[19:51:20.612] [ToolMod] Dumping Plant String: 1001 : 樱桃射手(1001)
+[19:51:20.619] [ToolMod] Dumping Plant String: 1002 : 阳光炸弹(1002)
+[19:51:20.627] [ToolMod] Dumping Plant String: 1003 : 樱桃坚果(1003)
+[19:51:20.632] [ToolMod] Dumping Plant String: 1004 : 豌豆坚果(1004)
+[19:51:20.640] [ToolMod] Dumping Plant String: 1005 : 超级樱桃射手(1005)
+[19:51:20.647] [ToolMod] Dumping Plant String: 1006 : 阳光坚果(1006)
+[19:51:20.652] [ToolMod] Dumping Plant String: 1007 : 豌豆土豆雷(1007)
+[19:51:20.661] [ToolMod] Dumping Plant String: 1008 : 樱桃双发射手(1008)
+[19:51:20.666] [ToolMod] Dumping Plant String: 1009 : 阳光土豆雷(1009)
+[19:51:20.674] [ToolMod] Dumping Plant String: 1010 : 土豆坚果(1010)
+[19:51:20.680] [ToolMod] Dumping Plant String: 1011 : 豌豆大嘴花(1011)
+[19:51:20.688] [ToolMod] Dumping Plant String: 1012 : 坚果大嘴花(1012)
+[19:51:20.695] [ToolMod] Dumping Plant String: 1013 : 超级大嘴花(1013)
+[19:51:20.701] [ToolMod] Dumping Plant String: 1014 : 阳光大嘴花(1014)
+[19:51:20.708] [ToolMod] Dumping Plant String: 1015 : 土豆大嘴花(1015)
+[19:51:20.713] [ToolMod] Dumping Plant String: 1016 : 樱桃大嘴花(1016)
+[19:51:20.720] [ToolMod] Dumping Plant String: 1017 : 樱桃机枪射手(1017)
+[19:51:20.727] [ToolMod] Dumping Plant String: 1018 : 豌豆小喷菇(1018)
+[19:51:20.732] [ToolMod] Dumping Plant String: 1019 : 双发小喷菇(1019)
+[19:51:20.738] [ToolMod] Dumping Plant String: 1020 : 铁桶豌豆射手(1020)
+[19:51:20.744] [ToolMod] Dumping Plant String: 1021 : 坚果小蘑菇(1021)
+[19:51:20.749] [ToolMod] Dumping Plant String: 1022 : 魅惑小蘑菇(1022)
+[19:51:20.757] [ToolMod] Dumping Plant String: 1023 : 魅惑大喷菇(1023)
+[19:51:20.762] [ToolMod] Dumping Plant String: 1024 : 魅惑胆小菇(1024)
+[19:51:20.768] [ToolMod] Dumping Plant String: 1025 : 胆大菇(1025)
+[19:51:20.774] [ToolMod] Dumping Plant String: 1026 : 超级魅惑菇(1026)
+[19:51:20.779] [ToolMod] Dumping Plant String: 1027 : 高坚果(1027)
+[19:51:20.785] [ToolMod] Dumping Plant String: 1028 : 橄榄高坚果(1028)
+[19:51:20.793] [ToolMod] Dumping Plant String: 1029 : 铁桶坚果(1029)
+[19:51:20.800] [ToolMod] Dumping Plant String: 1030 : 双发射手(1030)
+[19:51:20.806] [ToolMod] Dumping Plant String: 1031 : 阳光菇(1031)
+[19:51:20.812] [ToolMod] Dumping Plant String: 1032 : 机枪射手(1032)
+[19:51:20.816] [ToolMod] Dumping Plant String: 1033 : 双子向日葵(1033)
+[19:51:20.824] [ToolMod] Dumping Plant String: 1034 : 寒冰射手(1034)
+[19:51:20.832] [ToolMod] Dumping Plant String: 1035 : 寒冰小喷菇(1035)
+[19:51:20.840] [ToolMod] Dumping Plant String: 1036 : 寒冰小蘑菇(1036)
+[19:51:20.847] [ToolMod] Dumping Plant String: 1037 : 寒冰大喷菇(1037)
+[19:51:20.856] [ToolMod] Dumping Plant String: 1038 : 寒冰胆小菇(1038)
+[19:51:20.861] [ToolMod] Dumping Plant String: 1039 : 寒冰高坚果(1039)
+[19:51:20.866] [ToolMod] Dumping Plant String: 1040 : 寒冰毁灭菇(1040)
+[19:51:20.873] [ToolMod] Dumping Plant String: 1041 : 寒冰魅惑菇(1041)
+[19:51:20.878] [ToolMod] Dumping Plant String: 1042 : 毁灭胆小菇(1042)
+[19:51:20.884] [ToolMod] Dumping Plant String: 1043 : 毁灭大喷菇(1043)
+[19:51:20.891] [ToolMod] Dumping Plant String: 1044 : 毁灭小蘑菇(1044)
+[19:51:20.896] [ToolMod] Dumping Plant String: 1045 : 毁灭魅惑菇(1045)
+[19:51:20.902] [ToolMod] Dumping Plant String: 1046 : 超级大喷菇(1046)
+[19:51:20.908] [ToolMod] Dumping Plant String: 1047 : 三线窝瓜射手(1047)
+[19:51:20.913] [ToolMod] Dumping Plant String: 1048 : 地刺坚果(1048)
+[19:51:20.920] [ToolMod] Dumping Plant String: 1049 : 火爆缠绕水草(1049)
+[19:51:20.927] [ToolMod] Dumping Plant String: 1050 : 窝瓜水草(1050)
+[19:51:20.932] [ToolMod] Dumping Plant String: 1051 : 三线水草射手(1051)
+[19:51:20.939] [ToolMod] Dumping Plant String: 1052 : 超级火炬树桩(1052)
+[19:51:20.944] [ToolMod] Dumping Plant String: 1053 : 火爆树桩(1053)
+[19:51:20.950] [ToolMod] Dumping Plant String: 1054 : 火爆窝瓜(1054)
+[19:51:20.959] [ToolMod] Dumping Plant String: 1055 : 三线火炬树桩(1055)
+[19:51:20.965] [ToolMod] Dumping Plant String: 1056 : 火炬水草(1056)
+[19:51:20.972] [ToolMod] Dumping Plant String: 1057 : 焰光窝瓜(1057)
+[19:51:20.977] [ToolMod] Dumping Plant String: 1058 : 焦黑三线射手(1058)
+[19:51:20.982] [ToolMod] Dumping Plant String: 1059 : 窝瓜火炬树桩(1059)
+[19:51:20.990] [ToolMod] Dumping Plant String: 1060 : 地刺王(1060)
+[19:51:20.997] [ToolMod] Dumping Plant String: 1061 : 火炬地刺(1061)
+[19:51:21.004] [ToolMod] Dumping Plant String: 1062 : 火爆地刺(1062)
+[19:51:21.010] [ToolMod] Dumping Plant String: 1063 : 窝瓜地刺(1063)
+[19:51:21.015] [ToolMod] Dumping Plant String: 1064 : 三线地刺射手(1064)
+[19:51:21.022] [ToolMod] Dumping Plant String: 1065 : 机枪小喷菇(1065)
+[19:51:21.028] [ToolMod] Dumping Plant String: 1066 : 超级水草(1066)
+[19:51:21.034] [ToolMod] Dumping Plant String: 1067 : 猫尾草(1067)
+[19:51:21.042] [ToolMod] Dumping Plant String: 1068 : 寒冰猫尾草(1068)
+[19:51:21.046] [ToolMod] Dumping Plant String: 1069 : 火焰猫尾草(1069)
+[19:51:21.055] [ToolMod] Dumping Plant String: 1070 : 忧郁菇(1070)
+[19:51:21.060] [ToolMod] Dumping Plant String: 1071 : 火焰忧郁菇(1071)
+[19:51:21.066] [ToolMod] Dumping Plant String: 1072 : 寒冰忧郁菇(1072)
+[19:51:21.074] [ToolMod] Dumping Plant String: 1073 : 火焰高坚果(1073)
+[19:51:21.079] [ToolMod] Dumping Plant String: 1074 : 寒冰地刺王(1074)
+[19:51:21.085] [ToolMod] Dumping Plant String: 1075 : 火焰地刺王(1075)
+[19:51:21.091] [ToolMod] Dumping Plant String: 1076 : 仙人掌海蘑菇(1076)
+[19:51:21.098] [ToolMod] Dumping Plant String: 1077 : 阳光海蘑菇(1077)
+[19:51:21.105] [ToolMod] Dumping Plant String: 1078 : 海灯菇(1078)
+[19:51:21.110] [ToolMod] Dumping Plant String: 1079 : 流光仙人掌(1079)
+[19:51:21.115] [ToolMod] Dumping Plant String: 1080 : 流光三叶草(1080)
+[19:51:21.122] [ToolMod] Dumping Plant String: 1081 : 流光杨桃(1081)
+[19:51:21.127] [ToolMod] Dumping Plant String: 1082 : 三叶球(1082)
+[19:51:21.132] [ToolMod] Dumping Plant String: 1083 : 杨桃海蘑菇(1083)
+[19:51:21.140] [ToolMod] Dumping Plant String: 1084 : 杨桃五叶草(1084)
+[19:51:21.146] [ToolMod] Dumping Plant String: 1085 : 仙人掌杨桃(1085)
+[19:51:21.151] [ToolMod] Dumping Plant String: 1086 : 海叶草(1086)
+[19:51:21.157] [ToolMod] Dumping Plant String: 1087 : 流明南瓜(1087)
+[19:51:21.163] [ToolMod] Dumping Plant String: 1088 : 仙人掌南瓜(1088)
+[19:51:21.172] [ToolMod] Dumping Plant String: 1089 : 杨桃南瓜(1089)
+[19:51:21.177] [ToolMod] Dumping Plant String: 1090 : 裂荚射手(1090)
+[19:51:21.182] [ToolMod] Dumping Plant String: 1091 : 三叶南瓜(1091)
+[19:51:21.190] [ToolMod] Dumping Plant String: 1092 : 磁力南瓜(1092)
+[19:51:21.195] [ToolMod] Dumping Plant String: 1093 : 磁力杨桃(1093)
+[19:51:21.200] [ToolMod] Dumping Plant String: 1094 : 玩偶杨桃(1094)
+[19:51:21.211] [ToolMod] Dumping Plant String: 1095 : 矿工杨桃(1095)
+[19:51:21.217] [ToolMod] Dumping Plant String: 1096 : 铁桶杨桃(1096)
+[19:51:21.225] [ToolMod] Dumping Plant String: 1097 : 铁桶南瓜(1097)
+[19:51:21.233] [ToolMod] Dumping Plant String: 1098 : 玩偶南瓜(1098)
+[19:51:21.241] [ToolMod] Dumping Plant String: 1099 : 矿工南瓜(1099)
+[19:51:21.246] [ToolMod] Dumping Plant String: 1100 : 光明磁光菇(1100)
+[19:51:21.254] [ToolMod] Dumping Plant String: 1101 : 海磁力菇(1101)
+[19:51:21.260] [ToolMod] Dumping Plant String: 1102 : 磁力三叶草(1102)
+[19:51:21.266] [ToolMod] Dumping Plant String: 1103 : 磁力仙人掌(1103)
+[19:51:21.274] [ToolMod] Dumping Plant String: 1104 : 超级杨桃(1104)
+[19:51:21.281] [ToolMod] Dumping Plant String: 1105 : 寒冰双发射手(1105)
+[19:51:21.290] [ToolMod] Dumping Plant String: 1106 : 寒冰机枪射手(1106)
+[19:51:21.300] [ToolMod] Dumping Plant String: 1107 : 寒冰裂荚射手(1107)
+[19:51:21.311] [ToolMod] Dumping Plant String: 1108 : 樱桃裂荚射手(1108)
+[19:51:21.325] [ToolMod] Dumping Plant String: 1109 : 狙击射手(1109)
+[19:51:21.333] [ToolMod] Dumping Plant String: 1110 : 超级南瓜(1110)
+[19:51:21.342] [ToolMod] Dumping Plant String: 1111 : 阳光卷心菜(1111)
+[19:51:21.347] [ToolMod] Dumping Plant String: 1112 : 卷心菜花盆(1112)
+[19:51:21.353] [ToolMod] Dumping Plant String: 1113 : 玉米卷投手(1113)
+[19:51:21.360] [ToolMod] Dumping Plant String: 1114 : 玉米花盆(1114)
+[19:51:21.366] [ToolMod] Dumping Plant String: 1115 : 黄油保护伞(1115)
+[19:51:21.374] [ToolMod] Dumping Plant String: 1116 : 冰瓜(1116)
+[19:51:21.381] [ToolMod] Dumping Plant String: 1117 : 蒜玉米投手(1117)
+[19:51:21.388] [ToolMod] Dumping Plant String: 1118 : 蒜卷心菜投手(1118)
+[19:51:21.394] [ToolMod] Dumping Plant String: 1119 : 蒜西瓜投手(1119)
+[19:51:21.399] [ToolMod] Dumping Plant String: 1120 : 玉米加农炮(1120)
+[19:51:21.409] [ToolMod] Dumping Plant String: 1121 : 玉米瓜投手(1121)
+[19:51:21.414] [ToolMod] Dumping Plant String: 1122 : 火焰加农炮(1122)
+[19:51:21.421] [ToolMod] Dumping Plant String: 1123 : 寒冰加农炮(1123)
+[19:51:21.427] [ToolMod] Dumping Plant String: 1124 : 卷心瓜投手(1124)
+[19:51:21.431] [ToolMod] Dumping Plant String: 1125 : 西瓜花盆(1125)
+[19:51:21.442] [ToolMod] Dumping Plant String: 1126 : 超级投手(1126)
+[19:51:21.448] [ToolMod] Dumping Plant String: 1127 : 大蒜保护伞(1127)
+[19:51:21.455] [ToolMod] Dumping Plant String: 1128 : 卷心菜保护伞(1128)
+[19:51:21.460] [ToolMod] Dumping Plant String: 1129 : 机械坚果(1129)
+[19:51:21.466] [ToolMod] Dumping Plant String: 1130 : 大蒜花盆(1130)
+[19:51:21.472] [ToolMod] Dumping Plant String: 1131 : 西瓜保护伞(1131)
+[19:51:21.478] [ToolMod] Dumping Plant String: 1132 : 西瓜加农炮(1132)
+[19:51:21.483] [ToolMod] Dumping Plant String: 1133 : 保护伞花盆(1133)
+[19:51:21.490] [ToolMod] Dumping Plant String: 1134 : 银卷心菜投手(1134)
+[19:51:21.495] [ToolMod] Dumping Plant String: 1135 : 金卷心菜投手(1135)
+[19:51:21.501] [ToolMod] Dumping Plant String: 1136 : 银花盆(1136)
+[19:51:21.508] [ToolMod] Dumping Plant String: 1137 : 金花盆(1137)
+[19:51:21.516] [ToolMod] Dumping Plant String: 1138 : 银玉米投手(1138)
+[19:51:21.523] [ToolMod] Dumping Plant String: 1139 : 金玉米投手(1139)
+[19:51:21.529] [ToolMod] Dumping Plant String: 1140 : 双子金盏花(1140)
+[19:51:21.534] [ToolMod] Dumping Plant String: 1141 : 银西瓜投手(1141)
+[19:51:21.543] [ToolMod] Dumping Plant String: 1142 : 金西瓜投手(1142)
+[19:51:21.549] [ToolMod] Dumping Plant String: 1143 : 银保护伞(1143)
+[19:51:21.556] [ToolMod] Dumping Plant String: 1144 : 金保护伞(1144)
+[19:51:21.564] [ToolMod] Dumping Plant String: 1145 : 银蒜(1145)
+[19:51:21.569] [ToolMod] Dumping Plant String: 1146 : 金蒜(1146)
+[19:51:21.577] [ToolMod] Dumping Plant String: 1147 : 魅惑坚果(1147)
+[19:51:21.581] [ToolMod] Dumping Plant String: 1148 : 超级保护伞(1148)
+[19:51:21.591] [ToolMod] Dumping Plant String: 1149 : 火瓜(1149)
+[19:51:21.596] [ToolMod] Dumping Plant String: 1150 : 吸金磁(1150)
+[19:51:21.601] [ToolMod] Dumping Plant String: 1151 : 超级机械坚果(1151)
+[19:51:21.608] [ToolMod] Dumping Plant String: 1152 : 铁豆小喷菇(1152)
+[19:51:21.614] [ToolMod] Dumping Plant String: 1153 : 裂荚小喷菇(1153)
+[19:51:21.621] [ToolMod] Dumping Plant String: 1154 : 阳光磁力菇(1154)
+[19:51:21.627] [ToolMod] Dumping Plant String: 1155 : 焰光地刺(1155)
+[19:51:21.632] [ToolMod] Dumping Plant String: 1156 : 焰光缠绕水草(1156)
+[19:51:21.640] [ToolMod] Dumping Plant String: 1157 : 魅惑磁力菇(1157)
+[19:51:21.645] [ToolMod] Dumping Plant String: 1158 : 磁力大喷菇(1158)
+[19:51:21.650] [ToolMod] Dumping Plant String: 1159 : 铁桶大喷菇(1159)
+[19:51:21.657] [ToolMod] Dumping Plant String: 1160 : 橄榄大喷菇(1160)
+[19:51:21.663] [ToolMod] Dumping Plant String: 1161 : 机枪豌豆炮台(1161)
+[19:51:21.668] [ToolMod] Dumping Plant String: 1162 : 樱桃土豆雷(1162)
+[19:51:21.675] [ToolMod] Dumping Plant String: 1163 : 辣椒土豆雷(1163)
+[19:51:21.682] [ToolMod] Dumping Plant String: 1164 : 樱桃南瓜(1164)
+[19:51:21.688] [ToolMod] Dumping Plant String: 1165 : 超级寒冰机枪射手(1165)
+[19:51:21.693] [ToolMod] Dumping Plant String: 1166 : 樱桃磁力菇(1166)
+[19:51:21.699] [ToolMod] Dumping Plant String: 1167 : 火焰狙击射手(1167)
+[19:51:21.706] [ToolMod] Dumping Plant String: 1168 : 超级机枪射手(1168)
+[19:51:21.711] [ToolMod] Dumping Plant String: 1169 : 武装南瓜(1169)
+[19:51:21.716] [ToolMod] Dumping Plant String: 1170 : 土豆小喷菇(1170)
+[19:51:21.723] [ToolMod] Dumping Plant String: 1171 : 土豆胆小菇(1171)
+[19:51:21.729] [ToolMod] Dumping Plant String: 1172 : 大蒜喷菇(1172)
+[19:51:21.739] [ToolMod] Dumping Plant String: 1173 : 黑曜石辣椒(1173)
+[19:51:21.744] [ToolMod] Dumping Plant String: 1174 : 巨型大嘴花(1174)
+[19:51:21.749] [ToolMod] Dumping Plant String: 1175 : 海妖菇(1175)
+[19:51:21.757] [ToolMod] Dumping Plant String: 1176 : 魅惑三叶草(1176)
+[19:51:21.762] [ToolMod] Dumping Plant String: 1177 : 双子钢叶草(1177)
+[19:51:21.766] [ToolMod] Dumping Plant String: 1178 : 樱桃树桩(1178)
+[19:51:21.777] [ToolMod] Dumping Plant String: 1179 : 烈焰爆竹(1179)
+[19:51:21.784] [ToolMod] Dumping Plant String: 1180 : 寒冰地刺(1180)
+[19:51:21.794] [ToolMod] Dumping Plant String: 1181 : 蒜三叶草(1181)
+[19:51:21.804] [ToolMod] Dumping Plant String: 1182 : 极寒树桩(1182)
+[19:51:21.810] [ToolMod] Dumping Plant String: 1183 : 星星小蘑菇(1183)
+[19:51:21.814] [ToolMod] Dumping Plant String: 1184 : 阳光花盆(1184)
+[19:51:21.821] [ToolMod] Dumping Plant String: 1185 : 光叶保护伞(1185)
+[19:51:21.826] [ToolMod] Dumping Plant String: 1186 : 仙人掌保护伞(1186)
+[19:51:21.833] [ToolMod] Dumping Plant String: 1187 : 银向日葵(1187)
+[19:51:21.839] [ToolMod] Dumping Plant String: 1188 : 金向日葵(1188)
+[19:51:21.845] [ToolMod] Dumping Plant String: 1189 : 寒冰坚果(1189)
+[19:51:21.851] [ToolMod] Dumping Plant String: 1190 : 土豆南瓜(1190)
+[19:51:21.856] [ToolMod] Dumping Plant String: 1191 : 毁灭仙人掌(1191)
+[19:51:21.865] [ToolMod] Dumping Plant String: 1192 : 毁灭大嘴花(1192)
+[19:51:21.875] [ToolMod] Dumping Plant String: 1193 : 火焰大喷菇(1193)
+[19:51:21.881] [ToolMod] Dumping Plant String: 1194 : 毁灭豌豆射手(1194)
+[19:51:21.890] [ToolMod] Dumping Plant String: 1195 : 流光花盆(1195)
+[19:51:21.896] [ToolMod] Dumping Plant String: 1196 : 西瓜弹弹菇(1196)
+[19:51:21.900] [ToolMod] Dumping Plant String: 1197 : 杨桃树桩(1197)
+[19:51:21.908] [ToolMod] Dumping Plant String: 1198 : 火爆杨桃(1198)
+[19:51:21.919] [ToolMod] Dumping Plant String: 1199 : 余烬树桩(1199)
+[19:51:21.926] [ToolMod] Dumping Plant String: 1200 : 胆小南瓜(1200)
+[19:51:21.932] [ToolMod] Dumping Plant String: 1201 : 杨桃胆小菇(1201)
+[19:51:21.940] [ToolMod] Dumping Plant String: 1202 : 窝瓜南瓜(1202)
+[19:51:21.947] [ToolMod] Dumping Plant String: 1203 : 小玉米投手(1203)
+[19:51:21.955] [ToolMod] Dumping Plant String: 1204 : 小浮空伞(1204)
+[19:51:21.961] [ToolMod] Dumping Plant String: 1205 : 魅惑南瓜(1205)
+[19:51:21.966] [ToolMod] Dumping Plant String: 1206 : 坚果保护伞(1206)
+[19:51:21.974] [ToolMod] Dumping Plant String: 1207 : 樱桃保护伞(1207)
+[19:51:21.981] [ToolMod] Dumping Plant String: 1208 : 超时空豌豆射手(1208)
+[19:51:21.987] [ToolMod] Dumping Plant String: 1209 : 磁力玉米投手(1209)
+[19:51:21.995] [ToolMod] Dumping Plant String: 1210 : 超时空玉米投手(1210)
+[19:51:22.000] [ToolMod] Dumping Plant String: 1211 : 铁桶玉米投手(1211)
+[19:51:22.007] [ToolMod] Dumping Plant String: 1212 : 寒冰樱桃炸弹(1212)
+[19:51:22.012] [ToolMod] Dumping Plant String: 1213 : 磁力毁灭菇(1213)
+[19:51:22.018] [ToolMod] Dumping Plant String: 1214 : 超时空毁灭菇(1214)
+[19:51:22.027] [ToolMod] Dumping Plant String: 1215 : 超时空坚果(1215)
+[19:51:22.032] [ToolMod] Dumping Plant String: 1216 : 浮空豌豆射手(1216)
+[19:51:22.039] [ToolMod] Dumping Plant String: 1217 : 钢木弓手(1217)
+[19:51:22.044] [ToolMod] Dumping Plant String: 1218 : 水叶草(1218)
+[19:51:22.049] [ToolMod] Dumping Plant String: 1219 : 水滴射手(1219)
+[19:51:22.056] [ToolMod] Dumping Plant String: 1220 : 超级云杉(1220)
+[19:51:22.063] [ToolMod] Dumping Plant String: 1221 : 莲花云杉(1221)
+[19:51:22.071] [ToolMod] Dumping Plant String: 1222 : 钢叶莲花(1222)
+[19:51:22.075] [ToolMod] Dumping Plant String: 1223 : 云杉松炉(1223)
+[19:51:22.081] [ToolMod] Dumping Plant String: 1224 : 钢叶松炉(1224)
+[19:51:22.087] [ToolMod] Dumping Plant String: 1225 : 莲花松炉(1225)
+[19:51:22.093] [ToolMod] Dumping Plant String: 1226 : 芦荟松炉(1226)
+[19:51:22.099] [ToolMod] Dumping Plant String: 1227 : 芦荟医师(1227)
+[19:51:22.103] [ToolMod] Dumping Plant String: 2027 : 飞天樱魅射手(2027)
+[19:51:22.105] [ToolMod] Dumping Plant String: 960 : 电能豌豆（重生）
+[19:51:22.106] [ToolMod] Dumping Plant String: 2047 : 铁桶机枪小喷菇(2047)
+[19:51:22.106] [ToolMod] Dumping Plant String: 302 : 魅惑窝瓜
+[19:51:22.107] [ToolMod] Dumping Plant String: 177 : 冰毁爆竹
+[19:51:22.109] [ToolMod] Dumping Plant String: 304 : 冰毁胆小菇
+[19:51:22.109] [ToolMod] Dumping Plant String: 303 : 冰瓜加农炮
+[19:51:22.112] [ToolMod] Dumping Plant String: 301 : 铁桶机枪豌豆炮台
+[19:51:22.112] [ToolMod] Dumping Plant String: 163 : 超级铁豌豆机枪
+[19:51:22.113] [ToolMod] Dumping Plant String: 169 : 银河三叶草
+[19:51:22.113] [ToolMod] Dumping Plant String: 161 : 钻石帝果
+[19:51:22.114] [ToolMod] Dumping Plant String: 162 : 钻石保龄球
+[19:51:22.114] [ToolMod] Dumping Plant String: 164 : 幻灭猫瓜
+[19:51:22.115] [ToolMod] Dumping Plant String: 165 : 究极蒜大喷菇
+[19:51:22.115] [ToolMod] Dumping Plant String: 175 : 黄宝石伞
+[19:51:22.116] [ToolMod] Dumping Plant String: 176 : 魅宝石伞
+[19:51:22.116] [ToolMod] Dumping Plant String: 170 : 紫宝石伞
+[19:51:22.117] [ToolMod] Dumping Plant String: 171 : 黑宝石伞
+[19:51:22.117] [ToolMod] Dumping Plant String: 172 : 白宝石伞
+[19:51:22.118] [ToolMod] Dumping Plant String: 173 : 蓝宝石伞
+[19:51:22.118] [ToolMod] Dumping Plant String: 174 : 橙宝石伞
+[19:51:22.124] [ToolMod] Dumping Plant String: 1502 : 究极玉米投手(1502)
+[19:51:22.124] [ToolMod] Dumping Plant String: 168 : 冰毁瓜加农炮
+[19:51:22.150] [ToolMod] Dumping Zombie String: 0 : 僵尸(0)
+[19:51:22.154] [ToolMod] Dumping Zombie String: 2 : 路障僵尸(2)
+[19:51:22.157] [ToolMod] Dumping Zombie String: 3 : 撑杆跳僵尸(3)
+[19:51:22.160] [ToolMod] Dumping Zombie String: 4 : 铁桶僵尸(4)
+[19:51:22.161] [ToolMod] Dumping Zombie String: 5 : 读报僵尸(5)
+[19:51:22.163] [ToolMod] Dumping Zombie String: 6 : 舞王撑杆僵尸(6)
+[19:51:22.167] [ToolMod] Dumping Zombie String: 7 : 伴舞撑杆僵尸(7)
+[19:51:22.171] [ToolMod] Dumping Zombie String: 8 : 铁门僵尸(8)
+[19:51:22.173] [ToolMod] Dumping Zombie String: 9 : 橄榄球僵尸(9)
+[19:51:22.174] [ToolMod] Dumping Zombie String: 10 : 舞王僵尸(10)
+[19:51:22.178] [ToolMod] Dumping Zombie String: 11 : 鸭子僵尸(11)
+[19:51:22.180] [ToolMod] Dumping Zombie String: 12 : 路障鸭子僵尸(12)
+[19:51:22.182] [ToolMod] Dumping Zombie String: 13 : 铁桶鸭子僵尸(13)
+[19:51:22.183] [ToolMod] Dumping Zombie String: 14 : 机械海豚僵尸(14)
+[19:51:22.187] [ToolMod] Dumping Zombie String: 15 : 学者僵尸(15)
+[19:51:22.190] [ToolMod] Dumping Zombie String: 16 : 雪橇车僵尸(16)
+[19:51:22.193] [ToolMod] Dumping Zombie String: 17 : 潜水僵尸(17)
+[19:51:22.195] [ToolMod] Dumping Zombie String: 18 : 雪橇冰车僵尸(18)
+[19:51:22.197] [ToolMod] Dumping Zombie String: 19 : 海豚僵尸(19)
+[19:51:22.201] [ToolMod] Dumping Zombie String: 20 : 三叉戟僵尸(20)
+[19:51:22.204] [ToolMod] Dumping Zombie String: 21 : 钻石套娃僵尸(21)
+[19:51:22.207] [ToolMod] Dumping Zombie String: 22 : 黄金套娃僵尸(22)
+[19:51:22.209] [ToolMod] Dumping Zombie String: 23 : 白银套娃僵尸(23)
+[19:51:22.212] [ToolMod] Dumping Zombie String: 24 : 玩偶匣僵尸(24)
+[19:51:22.214] [ToolMod] Dumping Zombie String: 25 : 气球僵尸(25)
+[19:51:22.216] [ToolMod] Dumping Zombie String: 26 : 飞艇僵尸(26)
+[19:51:22.218] [ToolMod] Dumping Zombie String: 27 : 雪人骑士僵尸(27)
+[19:51:22.222] [ToolMod] Dumping Zombie String: 28 : 矿工僵尸(28)
+[19:51:22.225] [ToolMod] Dumping Zombie String: 29 : 铁桶气球僵尸(29)
+[19:51:22.227] [ToolMod] Dumping Zombie String: 30 : 小丑王僵尸(30)
+[19:51:22.229] [ToolMod] Dumping Zombie String: 31 : 投篮车僵尸(31)
+[19:51:22.230] [ToolMod] Dumping Zombie String: 32 : 跳跳僵尸(32)
+[19:51:22.234] [ToolMod] Dumping Zombie String: 33 : 扶梯僵尸(33)
+[19:51:22.239] [ToolMod] Dumping Zombie String: 34 : 瓜跳僵尸(34)
+[19:51:22.240] [ToolMod] Dumping Zombie String: 35 : 伽刚特尔(35)
+[19:51:22.242] [ToolMod] Dumping Zombie String: 36 : 红眼伽刚特尔(36)
+[19:51:22.245] [ToolMod] Dumping Zombie String: 37 : 小鬼僵尸(37)
+[19:51:22.248] [ToolMod] Dumping Zombie String: 38 : 机械伽刚特尔(38)
+[19:51:22.249] [ToolMod] Dumping Zombie String: 39 : 红眼机械伽刚特尔(39)
+[19:51:22.252] [ToolMod] Dumping Zombie String: 40 : 机械保龄球僵尸(40)
+[19:51:22.261] [ToolMod] Dumping Zombie String: 43 : 武装巨人僵尸(43)
+[19:51:22.263] [ToolMod] Dumping Zombie String: 44 : 僵王博士(44)
+[19:51:22.265] [ToolMod] Dumping Zombie String: 45 : 蹦极僵尸(45)
+[19:51:22.266] [ToolMod] Dumping Zombie String: 46 : 奖杯僵王博士(46)
+[19:51:22.269] [ToolMod] Dumping Zombie String: 47 : 雪人僵尸(47)
+[19:51:22.273] [ToolMod] Dumping Zombie String: 48 : 年兽僵尸(48)
+[19:51:22.274] [ToolMod] Dumping Zombie String: 49 : 雪枪僵尸(49)
+[19:51:22.276] [ToolMod] Dumping Zombie String: 50 : 雪盾僵尸(50)
+[19:51:22.279] [ToolMod] Dumping Zombie String: 51 : 雪叉僵尸(51)
+[19:51:22.282] [ToolMod] Dumping Zombie String: 52 : 传送门豌豆射手僵尸(52)
+[19:51:22.284] [ToolMod] Dumping Zombie String: 53 : 雪人飞碟僵尸(53)
+[19:51:22.288] [ToolMod] Dumping Zombie String: 55 : 冰块僵尸(55)
+[19:51:22.291] [ToolMod] Dumping Zombie String: 56 : 雪兽僵尸(56)
+[19:51:22.294] [ToolMod] Dumping Zombie String: 100 : 豌豆射手僵尸(100)
+[19:51:22.295] [ToolMod] Dumping Zombie String: 101 : 樱桃射手僵尸(101)
+[19:51:22.297] [ToolMod] Dumping Zombie String: 102 : 超级樱桃射手僵尸(102)
+[19:51:22.298] [ToolMod] Dumping Zombie String: 103 : 坚果僵尸(103)
+[19:51:22.303] [ToolMod] Dumping Zombie String: 104 : 樱桃读报僵尸(104)
+[19:51:22.306] [ToolMod] Dumping Zombie String: 105 : 盲盒僵尸(105)
+[19:51:22.309] [ToolMod] Dumping Zombie String: 106 : 铁桶坚果僵尸(106)
+[19:51:22.311] [ToolMod] Dumping Zombie String: 107 : 樱桃坚果僵尸(107)
+[19:51:22.314] [ToolMod] Dumping Zombie String: 108 : 铁桶豌豆射手僵尸(108)
+[19:51:22.317] [ToolMod] Dumping Zombie String: 109 : 橄榄球高坚果僵尸(109)
+[19:51:22.320] [ToolMod] Dumping Zombie String: 110 : 黄金盲盒僵尸(110)
+[19:51:22.323] [ToolMod] Dumping Zombie String: 111 : 寒冰高坚果僵尸(111)
+[19:51:22.326] [ToolMod] Dumping Zombie String: 112 : 爆破投篮车僵尸(112)
+[19:51:22.328] [ToolMod] Dumping Zombie String: 113 : 豌豆雪人骑士(113)
+[19:51:22.330] [ToolMod] Dumping Zombie String: 114 : 铁桶门铁豆僵尸(114)
+[19:51:22.332] [ToolMod] Dumping Zombie String: 115 : 窝瓜僵尸(115)
+[19:51:22.333] [ToolMod] Dumping Zombie String: 116 : 火爆窝瓜僵尸(116)
+[19:51:22.338] [ToolMod] Dumping Zombie String: 117 : 辣椒僵尸(117)
+[19:51:22.341] [ToolMod] Dumping Zombie String: 118 : 机枪橄榄球僵尸(118)
+[19:51:22.342] [ToolMod] Dumping Zombie String: 119 : 铁豌豆气球僵尸(119)
+[19:51:22.344] [ToolMod] Dumping Zombie String: 200 : 超级机械海豚僵尸(200)
+[19:51:22.347] [ToolMod] Dumping Zombie String: 201 : 舞王冰车僵尸(201)
+[19:51:22.350] [ToolMod] Dumping Zombie String: 202 : 超级三叉戟僵尸(202)
+[19:51:22.353] [ToolMod] Dumping Zombie String: 203 : 樱桃机枪读报僵尸(203)
+[19:51:22.355] [ToolMod] Dumping Zombie String: 204 : 黑橄榄高坚果僵尸(204)
+[19:51:22.357] [ToolMod] Dumping Zombie String: 205 : 基洛夫飞艇僵尸(205)
+[19:51:22.360] [ToolMod] Dumping Zombie String: 206 : 迷你基洛夫(206)
+[19:51:22.363] [ToolMod] Dumping Zombie String: 207 : 舞王指挥官(207)
+[19:51:22.364] [ToolMod] Dumping Zombie String: 208 : 千年尸王(208)
+[19:51:22.366] [ToolMod] Dumping Zombie String: 209 : 小丑跳跳王(209)
+[19:51:22.372] [ToolMod] Dumping Zombie String: 210 : 超级机械保龄球(210)
+[19:51:22.375] [ToolMod] Dumping Zombie String: 212 : 究极黑曜石巨人(212)
+[19:51:22.377] [ToolMod] Dumping Zombie String: 213 : 黑曜石小鬼僵尸(213)
+[19:51:22.379] [ToolMod] Dumping Zombie String: 214 : 樱桃机枪雪人骑士(214)
+[19:51:22.381] [ToolMod] Dumping Zombie String: 215 : 钻石盲盒僵尸(215)
+[19:51:22.385] [ToolMod] Dumping Zombie String: 216 : 三叉戟冲车僵尸(216)
+[19:51:22.388] [ToolMod] Dumping Zombie String: 217 : 白色撑杆舞王(217)
+[19:51:22.389] [ToolMod] Dumping Zombie String: 218 : 究极渊海三叉戟(218)
+[19:51:22.393] [ToolMod] Dumping Zombie String: 219 : 究极机械保龄球(219)
+[19:51:22.396] [ToolMod] Dumping Zombie String: 220 : 究极黑橄榄将军(220)
+[19:51:22.398] [ToolMod] Dumping Zombie String: 221 : 究极鱼型裂空机甲(221)
+[19:51:22.400] [ToolMod] Dumping Zombie String: 222 : 究极舞台巡演车(222)
+[19:51:22.406] [ToolMod] Dumping Zombie String: 223 : 究极Z教授(223)
+[19:51:22.408] [ToolMod] Dumping Zombie String: 224 : 究极玩偶匣皇后(224)
+[19:51:22.410] [ToolMod] Dumping Zombie String: 225 : 机枪黑橄榄僵尸(225)
+[19:51:22.412] [ToolMod] Dumping Zombie String: 226 : 阿尔法僵尸小队(226)
+[19:51:22.415] [ToolMod] Dumping Zombie String: 227 : 寒冰高坚果雪爪僵尸(227)
+[19:51:22.416] [ToolMod] Dumping Zombie String: 99 : 黑曜石套娃僵尸
+[19:51:22.417] [ToolMod] Dumping Zombie String: 98 : 黑曜石盲盒僵尸
+[19:51:22.421] [ToolMod] Dumping Advanced Buff String:#0 撒豆成兵：魅帝召唤间隔从30秒减为10秒，并解锁亚种魅后菇
+[19:51:22.421] [ToolMod] Dumping Advanced Buff String:#1 精兵强将：魅帝能召唤究极僵尸
+[19:51:22.421] [ToolMod] Dumping Advanced Buff String:#2 枕戈待旦：毁灭机枪不再需要休息，并解锁亚种毁灭机枪胆小菇
+[19:51:22.422] [ToolMod] Dumping Advanced Buff String:#3 核能威慑：毁灭机枪每轮都能发射大子弹
+[19:51:22.425] [ToolMod] Dumping Advanced Buff String:#4 妙手回春：阳光帝果召唤消耗降低至200阳光
+[19:51:22.427] [ToolMod] Dumping Advanced Buff String:#5 无关痛痒：阳光帝果限伤降低为10
+[19:51:22.428] [ToolMod] Dumping Advanced Buff String:#6 尸愁之路：玄钢地刺王伤害x5，并解锁亚种玄钢坚果
+[19:51:22.428] [ToolMod] Dumping Advanced Buff String:#7 百炼成钢：玄钢地刺王现在获得95%减伤
+[19:51:22.429] [ToolMod] Dumping Advanced Buff String:#8 熠熠生辉：单个阳光提供的阳光量大幅增加
+[19:51:22.429] [ToolMod] Dumping Advanced Buff String:#9 极速战备：手套冷却速度翻倍，且僵尸手套可以挪领袖
+[19:51:22.430] [ToolMod] Dumping Advanced Buff String:#10 强力打击：植物的攻击力增加20%
+[19:51:22.430] [ToolMod] Dumping Advanced Buff String:#11 精准打击：僵尸受到的伤害增加20%
+[19:51:22.431] [ToolMod] Dumping Advanced Buff String:#12 腐化：僵尸每受到一次伤害，下次受到的伤害增加5%
+[19:51:22.431] [ToolMod] Dumping Advanced Buff String:#13 全副武装：开启在游戏过程中自选卡牌的功能
+[19:51:22.431] [ToolMod] Dumping Advanced Buff String:#14 合理投资：词条刷新次数+2
+[19:51:22.432] [ToolMod] Dumping Advanced Buff String:#15 怒火攻心：红温增伤幅度从50%增至150%，并且火焰豌豆类会对僵尸附加红温效果
+[19:51:22.433] [ToolMod] Dumping Advanced Buff String:#16 至极手速：手套挪动植物不再消耗冷却，且僵尸手套可以挪领袖
+[19:51:22.433] [ToolMod] Dumping Advanced Buff String:#17 势如破竹：冰锥可以无限穿透，小冰机和小光机的攻击力增加50%
+[19:51:22.434] [ToolMod] Dumping Advanced Buff String:#18 冻彻心扉：冰锥对冻结的单位造成伤害提升至10倍，并解锁亚种阳光机枪小喷菇
+[19:51:22.439] [ToolMod] Dumping Advanced Buff String:#19 斗转星移：所有的流星冷却缩短为原来的1/2，且场上每多一个究极杨桃则提升300基础伤害
+[19:51:22.441] [ToolMod] Dumping Advanced Buff String:#20 灯火通明：全场光照等级+4
+[19:51:22.441] [ToolMod] Dumping Advanced Buff String:#21 多多益善：升级金盆的消耗不会超过8000
+[19:51:22.442] [ToolMod] Dumping Advanced Buff String:#22 等价交换：金币数超出上限的部分将转化为阳光，转化率为2:1
+[19:51:22.442] [ToolMod] Dumping Advanced Buff String:#23 人工智能：绿宝石伞现在可以自动开大，并解锁亚种红宝石伞
+[19:51:22.443] [ToolMod] Dumping Advanced Buff String:#24 弹射起步：绿宝石伞可以让子弹弹到前方其他绿宝石伞上并叠加伤害（无上限），且伤害增幅从75%增加到125%
+[19:51:22.444] [ToolMod] Dumping Advanced Buff String:#25 聚光盆：获得3000阳光然后使你的阳光翻倍，并使阳光上限增加到10万
+[19:51:22.444] [ToolMod] Dumping Advanced Buff String:#26 运斤如风：锤子冷却降低为6秒
+[19:51:22.445] [ToolMod] Dumping Advanced Buff String:#27 全息制冷：卡牌冷却减半
+[19:51:22.445] [ToolMod] Dumping Advanced Buff String:#28 致命一击：僵尸受到超过1800伤害（计算减伤之后）时额外受到1800伤害
+[19:51:22.445] [ToolMod] Dumping Advanced Buff String:#29 拆分：使用手套点击植物后可以拆解植物，有强制20秒的拆解冷却
+[19:51:22.446] [ToolMod] Dumping Advanced Buff String:#30 肉身成圣：魅惑僵尸获得1000%啃咬伤害加成和80%减伤
+[19:51:22.446] [ToolMod] Dumping Advanced Buff String:#31 百步穿杨：浴火三线的子弹可以无限穿透
+[19:51:22.447] [ToolMod] Dumping Advanced Buff String:#32 复制中心：模仿者冷却时间大幅降低
+[19:51:22.447] [ToolMod] Dumping Advanced Buff String:#33 连连看：两株相同植物一上一下时获得50%伤害加成和50%伤害减免
+[19:51:22.448] [ToolMod] Dumping Advanced Buff String:#34 特制弹药：魔法猫尾草的僚机攻击力x3
+[19:51:22.448] [ToolMod] Dumping Advanced Buff String:#35 一针见血：魔法猫尾草的基础攻击力x5
+[19:51:22.454] [ToolMod] Dumping Advanced Buff String:#36 真正的樱桃炸弹：植物的爆炸樱桃子弹在接下来的3轮内升级为纯粹的樱桃爆炸
+[19:51:22.456] [ToolMod] Dumping Advanced Buff String:#37 真正的毁灭菇：植物的毁灭菇子弹在接下来的3轮内升级为纯粹的毁灭菇爆炸
+[19:51:22.456] [ToolMod] Dumping Advanced Buff String:#38 可控核聚变：所有毁灭菇爆炸不留弹坑，并解锁亚种贪欲菇
+[19:51:22.456] [ToolMod] Dumping Advanced Buff String:#39 人多势众：幻灭菇爆炸时召唤额外的魅惑巨人僵尸和魅惑冰车
+[19:51:22.457] [ToolMod] Dumping Advanced Buff String:#40 我是传奇：究极樱桃战神和究极高坚果同时在场时，战神的攻击变成范围伤害，血量不再有上限，究高额外获得90%伤害减免
+[19:51:22.457] [ToolMod] Dumping Advanced Buff String:#41 大富翁：基于当前金钱数量增加摇钱火炬的子弹伤害比例，每1000增加2%
+[19:51:22.458] [ToolMod] Dumping Advanced Buff String:#42 挥金如土：摇钱三线火炬的子弹附带火焰豌豆一样的溅射效果
+[19:51:22.458] [ToolMod] Dumping Advanced Buff String:#43 过载：僵尸一段时间没有受到攻击后，下次受到的伤害大幅增加
+[19:51:22.459] [ToolMod] Dumping Advanced Buff String:#44 排山倒海：一种种一列
+[19:51:22.459] [ToolMod] Dumping Advanced Buff String:#45 星神合一：当场上有至少10个究极杨桃大帝和10个究极太阳神卷心菜，太阳神召唤的小太阳不会消失且伤害x5，且持续召唤太阳神流星
+[19:51:22.459] [ToolMod] Dumping Advanced Buff String:#46 量子护盾：仙萤伞能量上限x10，回复速度x20，治疗速度x2
+[19:51:22.460] [ToolMod] Dumping Advanced Buff String:#47 高能射线：仙萤伞的普通攻击的倍率增加至300%，爆炸倍率增加至1000%，间隔降低为2秒
+[19:51:22.460] [ToolMod] Dumping Advanced Buff String:#48 极致之冰：僵尸受到冻结的时间增加25%，寒冷减速幅度增加至75%
+[19:51:22.460] [ToolMod] Dumping Advanced Buff String:#49 枪枪爆头：铁豆小队每次狙击都会爆头，且每次狙击后有概率瞬狙若干次，但是狙击攻速降低
+[19:51:22.461] [ToolMod] Dumping Advanced Buff String:#50 开炮：提高铁豆小队炮弹的爆炸伤害和击退能力
+[19:51:22.461] [ToolMod] Dumping Advanced Buff String:#51 火力全开：究极樱桃射手攻击时会有超级樱桃子弹协同射击，究极窝炬燃烧一行火焰升级为全屏
+[19:51:22.462] [ToolMod] Dumping Advanced Buff String:#52 电涌穿透：电能豌豆的子弹每次攻击对本体额外造成总血量5%的伤害
+[19:51:22.462] [ToolMod] Dumping Advanced Buff String:#53 三人成虎：三个在同一格时，伤害*3
+[19:51:22.463] [ToolMod] Dumping Advanced Buff String:#54 不得寸进：铁豆可穿透四次
+[19:51:22.469] [ToolMod] Dumping Advanced Buff String:#55 难度开了：幻灭猫瓜代码杀全场僵尸
+[19:51:22.470] [ToolMod] Dumping Advanced Buff String:#56 满屋蒜香：究极蒜大喷菇攻击时取消僵尸蒜值上限
+[19:51:22.471] [ToolMod] Dumping Advanced Buff String:#57 超剧毒：究极蒜大喷菇可以对僵尸额外造成总血量×蒜值%的伤害
+[19:51:22.473] [ToolMod] Dumping Advanced Buff String:#58 冰蒜天：究极蒜大喷菇可以在僵尸被冻结时使僵尸蒜值增加e的(本行究极投手总数+1)次方，对僵尸本体额外造成(蒜值×(本行究极投手总数+1)的三次方)伤害
+[19:51:22.473] [ToolMod] Dumping Advanced Buff String:#59 彩虹伞神：当场上同时有9种宝石伞时，所有钱币花费量降为500
+[19:51:22.474] [ToolMod] Dumping Advanced Buff String:#60 保护保护伞：紫、黑、魅宝石伞触发被动时受伤大幅减少且可被替伤
+[19:51:22.474] [ToolMod] Dumping Advanced Buff String:#61 求生玉：本身血量低于300时，投掷出黄油的概率提升到1/2，僚机伤害360*2/s
+[19:51:22.474] [ToolMod] Dumping Advanced Buff String:#62 瓜里藏刀：每个冰毁瓜子弹对僵尸额外造成5%血量伤害
+[19:51:22.475] [ToolMod] Dumping Advanced Buff String:#63 真正的冰毁瓜：每个冰毁瓜子弹落地时直接生成3600伤害的寒冰毁灭菇爆炸，范围全屏
+[19:51:22.476] [ToolMod] Dumping Ultimate Buff String:#0 嗜血如命：究极樱桃战神回血量x3
+[19:51:22.479] [ToolMod] Dumping Ultimate Buff String:#1 坚毅不倒：究极樱桃战神濒死状态的无敌时间延长到10秒
+[19:51:22.480] [ToolMod] Dumping Ultimate Buff String:#2 力大砖飞：植物造成的樱桃爆炸伤害x3
+[19:51:22.482] [ToolMod] Dumping Ultimate Buff String:#3 快速填装：降低究极樱桃机枪的攻击间隔至1秒
+[19:51:22.483] [ToolMod] Dumping Ultimate Buff String:#4 凛风刺骨：究极大喷菇的伤害频率x3，亚种究极仙人掌为子弹伤害x3
+[19:51:22.483] [ToolMod] Dumping Ultimate Buff String:#5 三尺之寒：僵尸解除冻结时受到30%当前生命值的伤害
+[19:51:22.484] [ToolMod] Dumping Ultimate Buff String:#6 事半功倍：降低究极窝炬生成窝瓜需要的子弹数至10
+[19:51:22.484] [ToolMod] Dumping Ultimate Buff String:#7 窝红温了：究极窝炬没有位置生产窝瓜时将会直接燃烧一整行的僵尸
+[19:51:22.485] [ToolMod] Dumping Ultimate Buff String:#8 流星雨：降低究极杨桃的攻击间隔至0.5秒
+[19:51:22.487] [ToolMod] Dumping Ultimate Buff String:#9 众星之力：究极杨桃的子弹基础攻击力翻倍并且攻击力不再有上限
+[19:51:22.487] [ToolMod] Dumping Ultimate Buff String:#10 万籁俱寂：究极忧郁菇亡语伤害增加到1000000
+[19:51:22.488] [ToolMod] Dumping Ultimate Buff String:#11 以爆制爆：究极忧郁菇免疫爆炸，每吸收10000点爆炸伤害将释放毁灭菇爆炸
+[19:51:22.488] [ToolMod] Dumping Ultimate Buff String:#12 见者有份：究极投手散射概率提升至100%
+[19:51:22.493] [ToolMod] Dumping Ultimate Buff String:#13 瓜熟蒂落：究极投手附带瓜盆效果
+[19:51:22.493] [ToolMod] Dumping Ultimate Buff String:#14 中心爆破：究极大炮的中心点爆炸伤害x4
+[19:51:22.495] [ToolMod] Dumping Ultimate Buff String:#15 兵贵神速：究极大炮的装填时间降为原来的1/3
+[19:51:22.496] [ToolMod] Dumping Ultimate Buff String:#16 冰淬火炼：黑曜石高坚果受到寒冰菇效果回血10000，火爆辣椒效果回满血
+[19:51:22.496] [ToolMod] Dumping Ultimate Buff String:#17 两肋插刀：黑曜石高坚果会代替左右两株植物受伤
+[19:51:22.497] [ToolMod] Dumping Ultimate Buff String:#18 普度众生：究极魅惑菇子弹的魅惑血量阈值从50%提高到100%
+[19:51:22.497] [ToolMod] Dumping Ultimate Buff String:#19 永动机：究极魅惑菇永远处于高能状态，且攻击间隔缩短至1秒
+[19:51:22.498] [ToolMod] Dumping Ultimate Buff String:#20 阻冲之：究极炮塔的攻击力和击退强度大幅提高
+[19:51:22.498] [ToolMod] Dumping Ultimate Buff String:#21 狂战士：究极炮塔血量越低防御力越高，当血量低于100时免疫低于100的伤害
+[19:51:22.499] [ToolMod] Dumping Ultimate Buff String:#22 金光闪闪：太阳神卷心菜的子弹获得阳光卷心菜子弹的效果
+[19:51:22.499] [ToolMod] Dumping Ultimate Buff String:#23 人造太阳：太阳神卷心菜召唤的小太阳伤害x3
+[19:51:22.500] [ToolMod] Dumping Ultimate Buff String:#24 三位一体：究极南瓜的僚机增加至3个
+[19:51:22.500] [ToolMod] Dumping Ultimate Buff String:#25 镭射激光：究极南瓜的僚机攻击力x3
+[19:51:22.500] [ToolMod] Dumping Ultimate Buff String:#26 高瞻远瞩：究极火神弹弹菇的射程变为一整行
+[19:51:22.501] [ToolMod] Dumping Ultimate Buff String:#27 僵尸试图在火海中游泳：究极火神弹弹菇的火海持续时间翻倍
+[19:51:22.507] [ToolMod] Dumping Ultimate Buff String:#28 厚积薄发：每拥有1000积分，植物的攻击力增加5%，该加成不会超过400%
+[19:51:22.508] [ToolMod] Dumping Ultimate Buff String:#29 打折券：商店的词条价格降低30%
+[19:51:22.509] [ToolMod] Dumping Ultimate Buff String:#30 无尽贪婪：究极时空玉米的黑洞可以吸引一切子弹
+[19:51:22.509] [ToolMod] Dumping Ultimate Buff String:#31 万劫不复：究极时空玉米的黑洞吸引范围大幅增加
+[19:51:22.510] [ToolMod] Dumping Debuff String:#0 机枪读报愤怒的时候会无视植物
+[19:51:22.510] [ToolMod] Dumping Debuff String:#1 机枪读报免疫状态异常
+[19:51:22.511] [ToolMod] Dumping Debuff String:#2 被黑橄榄攻击的植物在短时间内无法回血
+[19:51:22.511] [ToolMod] Dumping Debuff String:#3 被黑橄榄攻击的植物在短时间内受到的伤害x3
+[19:51:22.512] [ToolMod] Dumping Debuff String:#4 超级机械海豚的移动速度翻倍
+[19:51:22.512] [ToolMod] Dumping Debuff String:#5 超级机械海豚获得50%伤害减免
+[19:51:22.513] [ToolMod] Dumping Debuff String:#6 基洛夫免疫三叶草效果，且飞行速度加快
+[19:51:22.513] [ToolMod] Dumping Debuff String:#7 基洛夫的僚机血量大幅增加
+[19:51:22.513] [ToolMod] Dumping Debuff String:#8 丑跳一定爆炸，且蓄力时间大幅降低
+[19:51:22.514] [ToolMod] Dumping Debuff String:#9 被小丑爆炸影响的小丑类僵尸会变成丑跳
+[19:51:22.514] [ToolMod] Dumping Debuff String:#10 三叉戟伤害x5
+[19:51:22.514] [ToolMod] Dumping Debuff String:#11 三叉戟僵尸现在随机挑选目标攻击
+[19:51:22.515] [ToolMod] Dumping Debuff String:#12 白舞王现在能召唤白色撑杆舞王僵尸
+[19:51:22.515] [ToolMod] Dumping Debuff String:#13 白舞王遇到植物不会停下
+[19:51:22.516] [ToolMod] Dumping Debuff String:#14 尸王死亡的爆炸伤害不可被小丑南瓜等免疫
+[19:51:22.516] [ToolMod] Dumping Debuff String:#15 尸王的冲刺间隔降低，且攻击力大幅增加
+[19:51:22.522] [ToolMod] Dumping Debuff String:#16 三叉戟冲车免疫控制，且投掷数量x5
+[19:51:22.523] [ToolMod] Dumping Debuff String:#17 你的每株植物有1/3概率会立即死亡
+[19:51:22.523] [ToolMod] Dumping Debuff String:#18 令你的阳光数归零
+[19:51:22.524] [ToolMod] Dumping Debuff String:#19 所有僵尸的血量翻倍
+[19:51:22.524] [ToolMod] Dumping Debuff String:#20 每一波出现的僵尸数量最大值增加到100
+[19:51:22.524] [ToolMod] Dumping Debuff String:#21 每关都会出现舞王冰车，且死亡时额外召唤一个白舞王
+[19:51:22.525] [ToolMod] Dumping Debuff String:#22 舞王冰车的移动速度大幅增加
+[19:51:22.525] [ToolMod] Dumping Debuff String:#23 黑曜石巨人死亡时会召唤僵王博士
+[19:51:22.526] [ToolMod] Dumping Debuff String:#24 究极三叉戟僵尸将会出现
+[19:51:22.526] [ToolMod] Dumping Debuff String:#25 究极机械坚果僵尸将会出现
+[19:51:22.526] [ToolMod] Dumping Debuff String:#26 黑橄榄将军将会出现
+[19:51:22.527] [ToolMod] Dumping Debuff String:#27 究极裂空机甲将会出现
+[19:51:22.527] [ToolMod] Dumping Debuff String:#28 究极白舞台车僵尸将会出现
+[19:51:22.528] [ToolMod] Dumping Debuff String:#29 究极读报僵尸将会出现
+[19:51:22.528] [ToolMod] Dumping Debuff String:#30 蹦极有概率空投究极僵尸,且额外获得90%减伤
+[19:51:22.528] [ToolMod] Dumping Debuff String:#31 究极小丑僵尸将会出现
+[19:51:22.529] [ToolMod] Dumping Debuff String:#32 僵尸死亡时有概率满血复活
+[19:51:22.529] [ToolMod] Dumping Debuff String:#33 你的植物数量不能超过120
+[19:51:22.529] [ToolMod] Dumping Debuff String:#34 阿尔法僵尸小队也会作为领袖出现
+[19:51:22.530] [ToolMod] Dumping Debuff String:#35 阿尔法僵尸小队会无限复活
+[19:51:22.530] [ToolMod] Dumping Debuff String:#36 三叉戟冲车会提前攻击
+[19:51:22.535] [ToolMod] Dumping Debuff String:#37 黑曜石盲盒僵尸只开出领袖僵尸
+[19:51:22.539] [ToolMod] Dumping Bullet String: 0 : Bullet_pea
+[19:51:22.541] [ToolMod] Dumping Bullet String: 1 : Bullet_cherry
+[19:51:22.542] [ToolMod] Dumping Bullet String: 2 : Bullet_nut
+[19:51:22.542] [ToolMod] Dumping Bullet String: 3 : Bullet_superCherry
+[19:51:22.544] [ToolMod] Dumping Bullet String: 4 : Bullet_zombieBlock
+[19:51:22.546] [ToolMod] Dumping Bullet String: 5 : Bullet_zombieBlock2
+[19:51:22.546] [ToolMod] Dumping Bullet String: 6 : Bullet_zombieBlock3
+[19:51:22.549] [ToolMod] Dumping Bullet String: 7 : Bullet_potato
+[19:51:22.549] [ToolMod] Dumping Bullet String: 8 : Bullet_smallSun
+[19:51:22.550] [ToolMod] Dumping Bullet String: 9 : Bullet_puff
+[19:51:22.550] [ToolMod] Dumping Bullet String: 10 : Bullet_puffPea
+[19:51:22.551] [ToolMod] Dumping Bullet String: 11 : Bullet_ironPea
+[19:51:22.553] [ToolMod] Dumping Bullet String: 12 : Bullet_threeSpike
+[19:51:22.554] [ToolMod] Dumping Bullet String: 13 : Bullet_puffRandomColor
+[19:51:22.554] [ToolMod] Dumping Bullet String: 14 : Bullet_puffLove
+[19:51:22.555] [ToolMod] Dumping Bullet String: 15 : Bullet_snowPea
+[19:51:22.555] [ToolMod] Dumping Bullet String: 16 : Bullet_snowPuffPea
+[19:51:22.560] [ToolMod] Dumping Bullet String: 17 : Bullet_iceSpark
+[19:51:22.561] [ToolMod] Dumping Bullet String: 18 : Bullet_smallIceSpark
+[19:51:22.561] [ToolMod] Dumping Bullet String: 20 : Bullet_magicTrack
+[19:51:22.562] [ToolMod] Dumping Bullet String: 21 : Bullet_snowPuff
+[19:51:22.563] [ToolMod] Dumping Bullet String: 22 : Bullet_blackPuff
+[19:51:22.564] [ToolMod] Dumping Bullet String: 23 : Bullet_doom
+[19:51:22.564] [ToolMod] Dumping Bullet String: 24 : Bullet_iceDoom
+[19:51:22.565] [ToolMod] Dumping Bullet String: 25 : Bullet_firePea_yellow
+[19:51:22.565] [ToolMod] Dumping Bullet String: 26 : Bullet_firePea_orange
+[19:51:22.565] [ToolMod] Dumping Bullet String: 27 : Bullet_firePea_red
+[19:51:22.566] [ToolMod] Dumping Bullet String: 28 : Bullet_squash
+[19:51:22.566] [ToolMod] Dumping Bullet String: 29 : Bullet_kelp
+[19:51:22.567] [ToolMod] Dumping Bullet String: 30 : Bullet_fireKelp
+[19:51:22.568] [ToolMod] Dumping Bullet String: 32 : Bullet_squashKelp
+[19:51:22.574] [ToolMod] Dumping Bullet String: 33 : Bullet_normalTrack
+[19:51:22.575] [ToolMod] Dumping Bullet String: 34 : Bullet_iceTrack
+[19:51:22.576] [ToolMod] Dumping Bullet String: 35 : Bullet_fireTrack
+[19:51:22.576] [ToolMod] Dumping Bullet String: 36 : Bullet_cherrySquash
+[19:51:22.577] [ToolMod] Dumping Bullet String: 37 : Bullet_cactus
+[19:51:22.577] [ToolMod] Dumping Bullet String: 38 : Bullet_lanternCactus_glow
+[19:51:22.577] [ToolMod] Dumping Bullet String: 39 : Bullet_star
+[19:51:22.578] [ToolMod] Dumping Bullet String: 40 : Bullet_lanternStar
+[19:51:22.578] [ToolMod] Dumping Bullet String: 41 : Bullet_seaStar
+[19:51:22.579] [ToolMod] Dumping Bullet String: 42 : Bullet_cactusStar
+[19:51:22.579] [ToolMod] Dumping Bullet String: 43 : Bullet_jackboxStar
+[19:51:22.580] [ToolMod] Dumping Bullet String: 44 : Bullet_pickaxeStar
+[19:51:22.580] [ToolMod] Dumping Bullet String: 45 : Bullet_magnetStar
+[19:51:22.580] [ToolMod] Dumping Bullet String: 46 : Bullet_ironStar
+[19:51:22.581] [ToolMod] Dumping Bullet String: 47 : Bullet_magnetCactus
+[19:51:22.582] [ToolMod] Dumping Bullet String: 48 : Bullet_superStar
+[19:51:22.582] [ToolMod] Dumping Bullet String: 49 : Bullet_ultimateStar
+[19:51:22.582] [ToolMod] Dumping Bullet String: 50 : Bullet_firePea_small
+[19:51:22.583] [ToolMod] Dumping Bullet String: 51 : Bullet_sword
+[19:51:22.590] [ToolMod] Dumping Bullet String: 52 : Bullet_cabbage
+[19:51:22.590] [ToolMod] Dumping Bullet String: 53 : Bullet_sunCabbage
+[19:51:22.591] [ToolMod] Dumping Bullet String: 54 : Bullet_kernal
+[19:51:22.591] [ToolMod] Dumping Bullet String: 55 : Bullet_butter
+[19:51:22.592] [ToolMod] Dumping Bullet String: 56 : Bullet_bigKernal
+[19:51:22.592] [ToolMod] Dumping Bullet String: 57 : Bullet_bigButter
+[19:51:22.593] [ToolMod] Dumping Bullet String: 58 : Bullet_basketball
+[19:51:22.594] [ToolMod] Dumping Bullet String: 59 : Bullet_melon
+[19:51:22.595] [ToolMod] Dumping Bullet String: 60 : Bullet_winterMelon
+[19:51:22.595] [ToolMod] Dumping Bullet String: 61 : Bullet_garlicKernal
+[19:51:22.595] [ToolMod] Dumping Bullet String: 62 : Bullet_garlicButter
+[19:51:22.596] [ToolMod] Dumping Bullet String: 63 : Bullet_garlicCabbage
+[19:51:22.596] [ToolMod] Dumping Bullet String: 64 : Bullet_garlicMelon
+[19:51:22.597] [ToolMod] Dumping Bullet String: 65 : Bullet_cannon
+[19:51:22.601] [ToolMod] Dumping Bullet String: 66 : Bullet_cornMelon
+[19:51:22.602] [ToolMod] Dumping Bullet String: 67 : Bullet_butterMelon
+[19:51:22.603] [ToolMod] Dumping Bullet String: 68 : Bullet_fireCannon
+[19:51:22.606] [ToolMod] Dumping Bullet String: 69 : Bullet_iceCannon
+[19:51:22.607] [ToolMod] Dumping Bullet String: 70 : Bullet_cabbageMelon
+[19:51:22.607] [ToolMod] Dumping Bullet String: 71 : Bullet_superMelon
+[19:51:22.607] [ToolMod] Dumping Bullet String: 72 : Bullet_ultimateMelon
+[19:51:22.608] [ToolMod] Dumping Bullet String: 73 : Bullet_melonCannon
+[19:51:22.608] [ToolMod] Dumping Bullet String: 74 : Bullet_silverCabbage
+[19:51:22.609] [ToolMod] Dumping Bullet String: 75 : Bullet_goldCabbage
+[19:51:22.609] [ToolMod] Dumping Bullet String: 76 : Bullet_silverKernal
+[19:51:22.610] [ToolMod] Dumping Bullet String: 77 : Bullet_goldKernal
+[19:51:22.610] [ToolMod] Dumping Bullet String: 78 : Bullet_silverButter
+[19:51:22.610] [ToolMod] Dumping Bullet String: 79 : Bullet_goldButter
+[19:51:22.613] [ToolMod] Dumping Bullet String: 80 : Bullet_smallGoldCannon
+[19:51:22.616] [ToolMod] Dumping Bullet String: 81 : Bullet_silverMelon
+[19:51:22.617] [ToolMod] Dumping Bullet String: 82 : Bullet_goldMelon
+[19:51:22.617] [ToolMod] Dumping Bullet String: 83 : Bullet_goldMelonCannon
+[19:51:22.617] [ToolMod] Dumping Bullet String: 84 : Bullet_ultimateCannon
+[19:51:22.618] [ToolMod] Dumping Bullet String: 85 : Bullet_ultimateKernal
+[19:51:22.619] [ToolMod] Dumping Bullet String: 86 : Bullet_fireMelon
+[19:51:22.621] [ToolMod] Dumping Bullet String: 87 : Bullet_firePea_super
+[19:51:22.622] [ToolMod] Dumping Bullet String: 89 : Bullet_garlicBomb
+[19:51:22.622] [ToolMod] Dumping Bullet String: 90 : Bullet_puffIronPea
+[19:51:22.623] [ToolMod] Dumping Bullet String: 91 : Bullet_lourCactus
+[19:51:22.625] [ToolMod] Dumping Bullet String: 92 : Bullet_puffPotato
+[19:51:22.628] [ToolMod] Dumping Bullet String: 93 : Bullet_steelPea
+[19:51:22.628] [ToolMod] Dumping Bullet String: 94 : Bullet_shulkLeaf
+[19:51:22.629] [ToolMod] Dumping Bullet String: 95 : Bullet_sunSpike
+[19:51:22.629] [ToolMod] Dumping Bullet String: 96 : Bullet_endoSun
+[19:51:22.629] [ToolMod] Dumping Bullet String: 97 : Bullet_extremeSnowPea
+[19:51:22.630] [ToolMod] Dumping Bullet String: 98 : Bullet_silverCoin
+[19:51:22.631] [ToolMod] Dumping Bullet String: 99 : Bullet_goldCoin
+[19:51:22.631] [ToolMod] Dumping Bullet String: 100 : Bullet_ultimateCactus
+[19:51:22.631] [ToolMod] Dumping Bullet String: 101 : Bullet_snowBall
+[19:51:22.632] [ToolMod] Dumping Bullet String: 102 : Bullet_doomCactus
+[19:51:22.632] [ToolMod] Dumping Bullet String: 103 : Bullet_bigMelon
+[19:51:22.633] [ToolMod] Dumping Bullet String: 104 : Bullet_fireStar
+[19:51:22.633] [ToolMod] Dumping Bullet String: 105 : Bullet_fireCherry
+[19:51:22.634] [ToolMod] Dumping Bullet String: 106 : Bullet_lanternCactus_dark
+[19:51:22.634] [ToolMod] Dumping Bullet String: 107 : Bullet_firePea_ultimate
+[19:51:22.639] [ToolMod] Dumping Bullet String: 108 : Bullet_redIronPea
+[19:51:22.640] [ToolMod] Dumping Bullet String: 109 : Bullet_normalSun
+[19:51:22.642] [ToolMod] Dumping Bullet String: 110 : Bullet_firePea_purple
+[19:51:22.642] [ToolMod] Dumping Bullet String: 111 : Bullet_springMelon
+[19:51:22.643] [ToolMod] Dumping Bullet String: 112 : Bullet_smallKernal
+[19:51:22.643] [ToolMod] Dumping Bullet String: 113 : Bullet_smallButter
+[19:51:22.644] [ToolMod] Dumping Bullet String: 114 : Bullet_portalPea
+[19:51:22.644] [ToolMod] Dumping Bullet String: 115 : Bullet_goldSquashKelp
+[19:51:22.644] [ToolMod] Dumping Bullet String: 116 : Bullet_ironPea_air
+[19:51:22.645] [ToolMod] Dumping Bullet String: 117 : Bullet_kernal_magnet
+[19:51:22.646] [ToolMod] Dumping Bullet String: 118 : Bullet_butter_magnet
+[19:51:22.646] [ToolMod] Dumping Bullet String: 119 : Bullet_kernal_portal
+[19:51:22.646] [ToolMod] Dumping Bullet String: 120 : Bullet_butter_portal
+[19:51:22.647] [ToolMod] Dumping Bullet String: 121 : Bullet_kernal_iron
+[19:51:22.647] [ToolMod] Dumping Bullet String: 122 : Bullet_butter_iron
+[19:51:22.652] [ToolMod] Dumping Bullet String: 123 : Bullet_pea_doom
+[19:51:22.654] [ToolMod] Dumping Bullet String: 124 : Bullet_pea_doom_fire
+[19:51:22.655] [ToolMod] Dumping Bullet String: 125 : Bullet_doom_fire
+[19:51:22.655] [ToolMod] Dumping Bullet String: 126 : Bullet_doom_big
+[19:51:22.656] [ToolMod] Dumping Bullet String: 127 : Bullet_spruce
+[19:51:22.656] [ToolMod] Dumping Bullet String: 128 : Bullet_spruceShulk
+[19:51:22.657] [ToolMod] Dumping Bullet String: 129 : Bullet_icePeach
+[19:51:22.658] [ToolMod] Dumping Bullet String: 130 : Bullet_passionFruit
+[19:51:22.658] [ToolMod] Dumping Bullet String: 131 : Bullet_passionFruit2
+[19:51:22.659] [ToolMod] Dumping Bullet String: 132 : Bullet_water
+[19:51:22.660] [ToolMod] Dumping Bullet String: 133 : Bullet_iceBlock
+[19:51:22.660] [ToolMod] Dumping Bullet String: 134 : Bullet_water_big
+[19:51:22.660] [ToolMod] Dumping Bullet String: 135 : Bullet_iceBlock_big
+[19:51:22.661] [ToolMod] Dumping Bullet String: 136 : Bullet_shulkLeaf_water
+[19:51:22.662] [ToolMod] Dumping Bullet String: 137 : Bullet_iceBlock_recover
+[19:51:22.665] [ToolMod] Dumping Bullet String: 138 : Bullet_shulkLeaf_ice
+[19:51:22.666] [ToolMod] Dumping Bullet String: 139 : Bullet_lotusSpruce
+[19:51:22.667] [ToolMod] Dumping Bullet String: 140 : Bullet_kernal_ultimate
+[19:51:22.667] [ToolMod] Dumping Bullet String: 141 : Bullet_blackHole_gold
+[19:51:22.668] [ToolMod] Dumping Bullet String: 2027 : Bullet_HypnoCherry
+[19:51:22.669] [ToolMod] Dumping Bullet String: 903 : ProjectileElectricPea
+[19:51:22.671] [ToolMod] Dumping Bullet String: 2047 : Bullet_PuffIronPeaPierce
+[19:51:22.671] [ToolMod] Dumping Bullet String: 902 : ProjectileCannon_wintermelon
+[19:51:22.671] [ToolMod] Dumping Bullet String: 15021 : Bullet_UltimateKernal
+[19:51:22.672] [ToolMod] Dumping Bullet String: 15022 : Bullet_UltimateButter
+[19:51:22.672] [ToolMod] Dumping Bullet String: 901 : ProjectileCannon_UltimateWinterMelon
+[19:51:22.674] [ToolMod] 以上id信息为动态生成，仅适用于当前游戏实例！！！
+[19:51:22.676] [ToolMod] 以上id信息为动态生成，仅适用于当前游戏实例！！！
+[19:51:22.677] [ToolMod] 以上id信息为动态生成，仅适用于当前游戏实例！！！
+[19:56:19.378] [ToolMod] Error parsing data at line 77: Input string was not in a correct format.
+[19:56:20.702] [ToolMod] Error parsing data at line 77: Input string was not in a correct format.
+[19:56:34.325] Preferences Saved!
